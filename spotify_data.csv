@@ -1,0 +1,501 @@
+,name,main_artist,release_date,duration_ms,popularity,explicit,album_type,track_id,main_artist_id,genre,list_country,ranking
+0,LA ÚLTIMA,Quevedo,2024-02-01,170322,79,False,single,2qHvD3r5qu4wuPpvq3CQKb,52iwsT98xCoGgiGntTiR7K,rap canario,spain,1
+1,"Young Miko: Bzrp Music Sessions, Vol. 58",Bizarrap,2024-01-10,187172,94,False,single,6VciS3dRMpZhJiDxT8ArFi,716NhGYqD1jl2wI1Qkgq36,argentine hip hop,spain,2
+2,Manos Rotas,DELLAFUENTE,2023-11-16,168594,85,False,single,3BFh8rR6aMexy7ELu2UQy3,4bJh7sMPcVRiqe5jlnsWQV,flamenco urbano,spain,3
+3,M.A.I,Milo j,2023-11-30,184027,85,False,album,35ttE4t8lQZA2vuCYDg4G7,19HM5j0ULGSmEoRcrSe5x3,trap argentino,spain,4
+4,LUNA,Feid,2023-12-01,196800,97,False,album,7bywjHOc0wSjGGbj04XbVi,2LRoIwlKmHjgvigdNGBHNo,colombian pop,spain,5
+5,LA FALDA,Myke Towers,2023-11-23,174229,91,True,album,7iUtQNMRB8ZkKC4AmEuCJC,7iK8PXO48WeuP03g8YR51W,reggaeton,spain,6
+6,No Te Quieren Conmigo,Gaby Music,2023-12-15,252040,89,False,single,3Cx4BsDd4q0GCVBJ5CAw2K,1r3tpVQ08jFAA2P4xzV5o4,pop reggaeton,spain,7
+7,ZORRA,Nebulossa,2023-12-15,183577,69,True,single,4ypCNolz6aRYZPO3UOGp8Z,58M2tktuW3ZTnZGTddqejF,,spain,8
+8,Casanova,Soolking,2023-12-07,243806,84,False,single,0qZhK4gFB5c1Wxsnd6WA8U,0GgY7hjMoGDsX8ZDe2mwds,french hip hop,spain,9
+9,Buscando Money,TWENTY SIX,2023-07-21,150000,79,False,single,357iDuZ0IXAAg3Aj7UszqO,6C2mFGFh8dz1vKp9l5Ce8P,,spain,10
+10,Una Foto Remix (feat. Emilia),Mesita,2024-01-05,243898,90,False,single,1kqH58eGh2ZTOHwqBIB2tM,2IKdK6PbitvCiXt1t2bPU6,rap uruguayo,spain,11
+11,UNA BACHATA,Lola Indigo,2024-02-01,157846,66,False,album,4SmMe198ot30paOyvuTH5w,3bvfu2KAve4lPHrhEFDZna,latin viral pop,spain,12
+12,La_Original.mp3,Emilia,2023-11-03,140625,85,False,album,6Es8Sk3xe1HiJ2MXCfHHwR,0AqlFI0tz2DsEoJlKSIiT9,pop argentino,spain,13
+13,Columbia,Quevedo,2023-07-07,186000,92,False,single,6XbtvPmIpyCbjuT0e8cQtp,52iwsT98xCoGgiGntTiR7K,rap canario,spain,14
+14,PERRO NEGRO,Bad Bunny,2023-10-13,162767,96,True,album,7iQXYTyuG13aoeHxGG28Nh,4q3ewBCX7sLwd24euuV69X,reggaeton,spain,15
+15,A 300,JC Reyes,2023-02-17,169208,79,False,single,18W8cuvcub2B9NQzm5rZxf,0FwnPHExlRRxEZPLAi5tmG,,spain,16
+16,MODELITO,Mora,2022-11-03,190496,84,True,album,559YUIWxUc8Mx4lsla13Ff,0Q8NcsJwoCbZOHHW63su5S,trap latino,spain,17
+17,COSAS QUE NO TE DIJE,Saiko,2021-09-17,224725,84,False,single,5xSt1wxZobFcLzHrFakv6z,2O8vbr4RYPpk6MRA4fio7u,trap latino,spain,18
+18,X'CLUSIVO,Gonzy,2023-12-01,175586,75,True,single,0T0Oo2aVRt5a39D3ObeWwm,4ixNZvQuuzCDxBsxO9zE6L,urbano latino,spain,19
+19,Hey Lil Mama,Eladio Carrion,2024-01-19,216338,84,False,album,5QtB74eCS2YzHvEfSlh8MG,5XJDexmWFLWOkjOEjOVX3e,trap boricua,spain,20
+20,REINA,Mora,2023-08-28,211879,84,True,album,0QRHOAeU8JRaVVn3UoZBih,0Q8NcsJwoCbZOHHW63su5S,trap latino,spain,21
+21,DILUVIO,Rauw Alejandro,2023-07-07,197052,91,True,album,2kz1YOhJiNubjigR1gB1VX,1mcTU81TzQhprhouKaTkpq,puerto rican pop,spain,22
+22,LA CAPI,Myke Towers,2023-11-23,202360,80,True,album,68OXeY9CUQebrOAAh3b3Jw,7iK8PXO48WeuP03g8YR51W,reggaeton,spain,23
+23,Narcotics (with Bryant Myers),Dei V,2023-09-14,173991,85,True,single,0p0cOpBujR114Wirv5AM7W,2YRyPiW98bpkARAS4B3OQP,trap latino,spain,24
+24,Si No Estás,iñigo quintero,2022-09-23,184061,95,False,single,2HafqoJbgXdtjwCOvNEF14,0jbo7KFNMiIkfBR6ih0yhm,,spain,25
+25,POLARIS - Remix,Saiko,2023-06-08,288000,83,True,single,0EhuGnOS6fTc5l5UNtDEH2,2O8vbr4RYPpk6MRA4fio7u,trap latino,spain,26
+26,OA,Anuel AA,2023-10-13,235200,86,True,single,6gMj2DzKR2PjrrbNSwcGFR,2R21vXR83lH98kGeO99Y66,reggaeton,spain,27
+27,Madrid City,Ana Mena,2023-09-29,172727,79,False,single,6KHxe3Yj8W8oq3zviUvJRe,6k8mwkKJKKjBILo7ypBspl,spanish pop,spain,28
+28,Buenas,Quevedo,2023-09-22,192954,81,False,single,4sDpxaulErbJ9NBaJDC7cJ,52iwsT98xCoGgiGntTiR7K,rap canario,spain,29
+29,QLONA,KAROL G,2023-08-10,172797,93,True,album,5RqSsdzTNPX1uzkmlHCFvK,790FomKkXshlbRYZFtlgla,reggaeton,spain,30
+30,BABY HELLO,Rauw Alejandro,2023-07-07,222461,78,True,album,21N77gfWYoQDvrLvaeiQgi,1mcTU81TzQhprhouKaTkpq,puerto rican pop,spain,31
+31,"Japoni (feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)",Oscar el Ruso,2024-01-02,248004,74,False,single,4LcRO9JPtGavb3dbg7HIMQ,1aOK2Zm4Wsm4I4DuoQIXsZ,flamenco urbano,spain,32
+32,Holanda,Jhayco,2023-07-28,231693,87,True,single,6irysuQyZWd7Bjj7ePiOs2,6nVcHLIgY5pE2YCl8ubca1,reggaeton,spain,33
+33,LALA,Myke Towers,2023-03-23,197920,93,True,album,7ABLbnD53cQK00mhcaOUVG,7iK8PXO48WeuP03g8YR51W,reggaeton,spain,34
+34,"Milo J: Bzrp Music Sessions, Vol. 57",Bizarrap,2023-10-03,189901,83,False,single,1iLbUmb2b2btyAAcQ68a1p,716NhGYqD1jl2wI1Qkgq36,argentine hip hop,spain,35
+35,La Bachata,Manuel Turizo,2023-03-17,162637,87,False,album,3tt9i3Hhzq84dPS8H7iSiJ,0tmwSHipWxN12fsoLcFU3B,colombian pop,spain,36
+36,NO PIENSO LLAMAR,Soge Culebra,2023-10-13,198352,71,False,album,3tPPP39TSamzLPOJomKALp,2SNfNJDsahTSVFwgxposF5,rap conciencia,spain,37
+37,Quien Es Dei V?,Dei V,2023-03-17,162244,82,True,single,5nSUskJwcSRFS9dIqrVfrv,2YRyPiW98bpkARAS4B3OQP,trap latino,spain,38
+38,VAGABUNDO,Sebastian Yatra,2023-05-12,215600,86,False,single,1MB8kTH7VKvAMfL9SHgJmG,07YUOmWljBTXwIseAUd9TW,colombian pop,spain,39
+39,SI SABE FERXXO,Blessd,2024-01-25,152500,81,True,album,7chTH3GBjjAyagf0SPCZDL,1TA5sGRlKUJXBN4ZyJuDIX,reggaeton,spain,40
+40,El Mambo,Kiko Rivera,2023-07-13,129845,77,False,single,51QmqegeWI2orK2mzDfnIH,0HSGpDMeXaEmH5aUIHjnBF,electro bailando,spain,41
+41,El Malo,Eladio Carrion,2024-01-19,209655,80,False,album,144k7KOL7ZPopw7rTTzzXN,5XJDexmWFLWOkjOEjOVX3e,trap boricua,spain,42
+42,lady madrizZz,céro,2023-09-01,131020,71,False,single,1f3oAGS76ZIzOrsxcD2P36,5AiFFE0KopBkOzEZeDbSaH,,spain,43
+43,Perdió Este Culo,Bad Gyal,2024-01-26,159253,74,True,album,1bmIRafMOhUKsnZE7haw2u,4F4pp8NUW08JuXwnoxglpN,neoperreo,spain,44
+44,ASI ES LA VIDA,Enrique Iglesias,2023-09-28,172095,83,False,single,0Me3GyNuLOa1YTIxhJPyCn,7qG3b048QCHVRO5Pv1T5lw,dance pop,spain,45
+45,No_Se_Ve.mp3,Emilia,2023-11-03,203636,77,False,album,2df5CkXBJO7jTGXm54dFJy,0AqlFI0tz2DsEoJlKSIiT9,pop argentino,spain,46
+46,SEDA,Bad Bunny,2023-10-13,190476,83,True,album,1YnChEM51BVZ5dRhbVFEMl,4q3ewBCX7sLwd24euuV69X,reggaeton,spain,47
+47,Los del Espacio,LIT killah,2023-06-01,338000,85,False,single,1Hs1uUl8o2VtDp1DABFq0O,1vqR17Iv8VFdzure1TAXEq,argentine hip hop,spain,48
+48,El Cielo,Sky Rompiendo,2023-06-02,191320,85,True,single,4PA1wK0leCjmRZlP5dQ8Lv,51XrH5fQP2oIQynuKxSWcW,trap latino,spain,49
+49,Falsos Recuerdos,Abraham Mateo,2024-01-25,191414,69,False,single,4snJ71Uz5KvX1CW0SaUiZY,2bxxlINUlcMQQb39K7IopR,latin arena pop,spain,50
+50,Bling-Bang-Bang-Born,Creepy Nuts,2024-01-07,168135,91,False,single,0kdqcbwei4MDWFEX5f33yG,0pWR7TsFhvSCnbmHDjWgrE,j-pop,japan,1
+51,晩餐歌,tuki.,2023-09-29,215853,80,False,single,2cxcqKwQtfKq7giphxjzOu,1Y5vJqABeI6QI6R95EDV6o,,japan,2
+52,アイドル,YOASOBI,2023-10-04,211733,80,False,album,1hAloWiinXLPQUJxrJReb1,64tJ2EAv1R6UaZqc4iOCyj,j-pop,japan,3
+53,ケセラセラ,Mrs. GREEN APPLE,2023-07-04,272226,77,False,album,0teqQ0PYqVDyyXJuPOyMhu,4QvgGvpgzgyUOo8Yp8LDm9,anime rock,japan,4
+54,ナハトムジーク,Mrs. GREEN APPLE,2024-01-16,262984,76,False,single,7sditHCsoFw3nHnjFv1BHV,4QvgGvpgzgyUOo8Yp8LDm9,anime rock,japan,5
+55,Show,Ado,2023-09-06,189772,75,False,single,1rDgAHDX95RmylxjgVW9tN,6mEQK9m2krja6X1cfsAjfl,j-pop,japan,6
+56,ダンスホール,Mrs. GREEN APPLE,2023-12-01,203149,53,False,album,5LkmpgQYtwHtuvASgnLBe1,4QvgGvpgzgyUOo8Yp8LDm9,anime rock,japan,7
+57,SPECIALZ,King Gnu,2023-09-01,238986,86,False,single,0GWNtMohuYUEHVZ40tcnHF,6wxfx1yhyqjCPYwwxJktR2,j-pop,japan,8
+58,Kaiju no Hanauta,Vaundy,2020-05-27,224804,50,False,album,3gQ19Wo6CbBpdHYmt2GVt0,2IUl3m1H1EQ7QfNbNWvgru,j-pop,japan,9
+59,Magic,Mrs. GREEN APPLE,2023-07-04,263106,77,False,album,170XOP1T4MvY9TLTgPw07D,4QvgGvpgzgyUOo8Yp8LDm9,anime rock,japan,10
+60,冬と春,back number,2024-01-24,256786,73,False,single,6nIoYpfSvie3Ln46dyi8FC,6rs1KAoQnFalSqSU4LTh8g,j-pop,japan,11
+61,Soranji,Mrs. GREEN APPLE,2023-07-04,343253,75,False,album,3YML5IHoqWbw9c9vJJvrvM,4QvgGvpgzgyUOo8Yp8LDm9,anime rock,japan,12
+62,Seven (feat. Latto) (Explicit Ver.),Jung Kook,2023-11-03,183550,90,True,album,2HRgqmZQC0MC7GeNuDIXHN,6HaGTQPmzraVmaVxvz6EUc,k-pop,japan,13
+63,Perfect Night,LE SSERAFIM,2023-10-27,159080,91,False,single,74X2u8JMVooG2QbjRxXwR8,4SpbR6yFEvexJuaBpgAU5p,k-pop girl group,japan,14
+64,勇者,YOASOBI,2023-10-04,194266,78,False,album,0YTM7bCx451c6LQbkddy4Q,64tJ2EAv1R6UaZqc4iOCyj,j-pop,japan,15
+65,晴る,ヨルシカ,2024-01-05,270705,78,False,single,5eY7692tmgHB9dbmq6wa2M,4UK2Lzi6fBfUi9rpDt6cik,j-pop,japan,16
+66,青と夏,Mrs. GREEN APPLE,2019-10-01,270026,75,False,album,5BC6kr6etk2Y9J62AyI4i3,4QvgGvpgzgyUOo8Yp8LDm9,anime rock,japan,17
+67,SOULSOUP,OFFICIAL HIGE DANDISM,2023-12-13,314469,63,False,single,1JrxwbZ9u0VNwemdcJwZNi,5Vo1hnCRmCM6M4thZCInCj,anime,japan,18
+68,Hana,Fujii Kaze,2023-10-12,246699,66,False,single,02tNuntKQsoou5T4O8meyh,6bDWAcdtVR3WHz2xtiIPUi,japanese teen pop,japan,19
+69,rendez-vous,shy taupe,2024-01-17,238506,46,False,album,77mI5OSGIIPKxHXBkHOySy,26JbIcCELE7o1nl8pw6Vlg,modern j-rock,japan,20
+70,青のすみか,Tatsuya Kitani,2024-01-10,196640,72,False,album,3zbKiko8V3u2yn1RcT8xBZ,7mvhRvEAHiCTQHUnH7fgnv,japanese electropop,japan,21
+71,タイムパラドックス,Vaundy,2024-01-07,226557,73,False,single,3jNwPOqdPvQIr5dRT0hzgY,2IUl3m1H1EQ7QfNbNWvgru,j-pop,japan,22
+72,美しい鰭,SPITZ,2023-05-17,211920,74,False,album,1H3qOzheTPhE7aVvJOWfvA,5kjGRHClVacSyllOUqU1S0,classic j-pop,japan,23
+73,花になって - Be a flower,Ryokuoushoku Shakai,2023-10-29,199333,79,False,single,2EmkTBTh964LQen4Vz0svg,4SJ7qRgJYNXB9Yttzs4aSa,j-pop,japan,24
+74,Subtitle,OFFICIAL HIGE DANDISM,2022-10-12,305509,60,False,single,4zrKPIygugUDKGFEjVwpSB,5Vo1hnCRmCM6M4thZCInCj,anime,japan,25
+75,ただ君に晴れ,ヨルシカ,2018-05-09,198971,78,False,album,3wJHCry960drNlAUGrJLmz,4UK2Lzi6fBfUi9rpDt6cik,j-pop,japan,26
+76,点描の唄,Mrs. GREEN APPLE,2023-12-01,307120,44,False,album,7Md0Rk4s9khBtVpSD03bWl,4QvgGvpgzgyUOo8Yp8LDm9,anime rock,japan,27
+77,水平線,back number,2023-01-17,288013,74,False,album,3RvdkNMcSy71m0aT6UF9Uf,6rs1KAoQnFalSqSU4LTh8g,j-pop,japan,28
+78,Any angle,乃紫,2024-01-05,127925,59,False,single,4KiY8v1cM2S8BS8ob2IGVg,2rUfBClgdqQ4Svcg0A6gIl,,japan,29
+79,高嶺の花子さん,back number,2014-03-26,294813,74,False,album,2jdbZGFp8KVTuk0YxDNL4l,6rs1KAoQnFalSqSU4LTh8g,j-pop,japan,30
+80,GOAT,Number_i,2024-01-01,157200,78,False,single,18mkDTCwDfZyTJNYieHxhQ,4XFkDALFTsSHVnRtJSsaMN,,japan,31
+81,ビリミリオン,Yuuri,2023-03-29,228760,75,False,album,7M0dIdZWN1FDcveRdoOzbZ,0ixzjrK1wkN2zWBXt3VW3W,j-pop,japan,32
+82,more than words,Hitsujibungaku,2023-12-06,289173,74,False,album,2kXER8pkjxDVQnlagpVJJw,6S8w5rLsEwjN21jQeRES0n,j-rock,japan,33
+83,最高到達点,SEKAI NO OWARI,2023-09-17,227469,77,False,single,2hXPmiqKdXcbV0L1VKnTDN,7HwzlRPa9Ad0I8rK0FPzzK,anime,japan,34
+84,インフェルノ,Mrs. GREEN APPLE,2019-10-01,211600,76,False,album,2vOAHp8PBBFYqvQUWSoITY,4QvgGvpgzgyUOo8Yp8LDm9,anime rock,japan,35
+85,I'm a mess,MY FIRST STORY,2022-08-24,251333,73,False,album,5m21ZR5lO6U0tp9KENxuCc,6cutt8thPFUICMfxaYerWd,j-pop,japan,36
+86,Love Song,マルシィ,2023-11-29,258306,51,False,album,7dPdKXZjt04R6Ne7vWXZIh,7oQ6zxSp4eQjvVkk9rGIDV,japanese teen pop,japan,37
+87,HAPPY BIRTHDAY,back number,2023-01-18,258600,39,False,album,1lyDrDkuV5HsD1vfmAxbPI,6rs1KAoQnFalSqSU4LTh8g,j-pop,japan,38
+88,W / X / Y,Tani Yuuki,2021-12-08,278118,58,False,album,3cBghvTcQNDNkW98Y4eGaP,0B1ce3uNrzkdm76NXI4mhX,j-pop,japan,39
+89,第ゼロ感,10-FEET,2022-12-14,286000,73,False,album,6zjk7Qbwb9DZ4ykUUoqknh,0QZqdhoRQkn1VphAa5eX8h,j-pop,japan,40
+90,群青,YOASOBI,2021-01-06,248026,77,False,album,1zd35Y44Blc1CwwVbW3Qnk,64tJ2EAv1R6UaZqc4iOCyj,j-pop,japan,41
+91,花束,back number,2011-10-26,286053,73,False,album,3QIAwtEEDOrv0g5NKCGrXZ,6rs1KAoQnFalSqSU4LTh8g,j-pop,japan,42
+92,なんでもないよ、,Macaroni Empitsu,2022-01-12,219252,74,False,album,5W7Y92LB4jWvu9NeEQ0GZl,1t17z3vfuc82cxSDMrvryJ,anime,japan,43
+93,祝福,YOASOBI,2023-10-04,192400,76,False,album,1VoTe7qVyqyMNLgZpQeugO,64tJ2EAv1R6UaZqc4iOCyj,j-pop,japan,44
+94,カメレオン,King Gnu,2022-02-28,193990,76,False,single,0J0P8iSE6l3pYHbUdNFYdS,6wxfx1yhyqjCPYwwxJktR2,j-pop,japan,45
+95,ベテルギウス,Yuuri,2022-01-12,230600,75,False,album,4JK1kDUdH9RTBQrrSO1QfR,0ixzjrK1wkN2zWBXt3VW3W,j-pop,japan,46
+96,Ditto,NewJeans,2022-12-19,185506,85,False,single,3r8RuvgbX9s7ammBn07D3W,6HvZYsbFfjnjFrWF950C9d,k-pop,japan,47
+97,ドライフラワー,Yuuri,2022-01-12,286360,74,False,album,4kPlQKwtPrnqLgrmmKFSlA,0ixzjrK1wkN2zWBXt3VW3W,j-pop,japan,48
+98,OMG,NewJeans,2023-01-02,212253,87,False,single,65FftemJ1DbbZ45DUfHJXE,6HvZYsbFfjnjFrWF950C9d,k-pop,japan,49
+99,春愁,Mrs. GREEN APPLE,2023-12-01,183800,44,False,album,0OeTb9sIQTNq313HQHv9TM,4QvgGvpgzgyUOo8Yp8LDm9,anime rock,japan,50
+100,Beautiful Things,Benson Boone,2024-01-18,180304,93,False,single,6tNQ70jh4OwmPGpYy6R2o9,22wbnEMDvgVIAGdFeek6ET,singer-songwriter pop,usa,1
+101,Stick Season,Noah Kahan,2022-10-14,182346,97,False,album,0mflMxspEfB0VbI1kyLiAv,2RQXRUsr4IW1f3mKyKsy4B,pov: indie,usa,2
+102,Lovin On Me,Jack Harlow,2023-11-10,138411,99,True,single,4xhsWYTOGcal8zt0J161CU,2LIk90788K0zvyj2JJVwkJ,deep underground hip hop,usa,3
+103,redrum,21 Savage,2024-01-12,270697,96,True,album,52eIcoLUM25zbQupAZYoFh,1URnnhqYAYcrqrcwql10ft,atl hip hop,usa,4
+104,Never Lose Me,Flo Milli,2023-11-30,125901,92,True,single,6uTPdRrEDeH8Fyg5L5qmeU,08PvCOlef4xdOr20jFSTPd,viral rap,usa,5
+105,HISS,Megan Thee Stallion,2024-01-26,192818,88,True,single,79AHPJd8upvNxyK2qQcY8J,181bsRPaVXVlUKXrxwZfHK,houston rap,usa,6
+106,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,2023-08-25,227195,94,False,album,4KULAymBBJcPRpk1yO4dOG,40ZNYROS4zLfyyBSs2PGe2,classic oklahoma country,usa,7
+107,La Diabla,Xavi,2023-11-30,172264,99,False,single,0R6NfOiLzLj4O5VbYSJAjf,3Me35AWHCGqW4sZ7bWWJt1,sad sierreno,usa,8
+108,My Love Mine All Mine,Mitski,2023-09-15,137773,99,False,album,3vkCueOmm7xQDoJ17W1Pm3,2uYWxilOVlUdk4oV9DvwqK,brooklyn indie,usa,9
+109,greedy,Tate McRae,2023-09-15,131872,100,True,single,3rUGC1vUpkDG9CZFHMur1t,45dkTj5sMRSjrmBSBeiHym,alt z,usa,10
+110,Cruel Summer,Taylor Swift,2019-08-23,178426,99,False,album,1BxfuPKGuaTgP7aM0Bbdwr,06HL4z0CvFAxyc27GXpf02,pop,usa,11
+111,Lose Control,Teddy Swims,2023-09-15,210688,92,False,album,17phhZDn6oGtzMe56NuWvj,33qOK5uJ8AR2xuQQAhHump,,usa,12
+112,Igual Que Un Ángel (with Peso Pluma),Kali Uchis,2024-01-12,260370,95,False,album,6XaJfhwof7qIgbbXO5tIQI,1U1el3k54VvEUzo3ybLPlM,colombian pop,usa,13
+113,Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,2023-10-06,319191,93,True,album,1yeB8MUNeLo9Ek1UEpsyz6,3TVXtAsR1Inumwj472S9r4,canadian hip hop,usa,14
+114,Snooze,SZA,2022-12-09,201800,93,True,album,4iZ4pt7kvcaH6Yo8UoZ4s2,7tYKF4w9nC0nq9CsPZTHyP,pop,usa,15
+115,Something in the Orange,Zach Bryan,2022-04-22,228013,91,False,single,3WMj8moIAXJhHsyLaqIIHI,40ZNYROS4zLfyyBSs2PGe2,classic oklahoma country,usa,16
+116,ONE CALL,Rich Amiri,2023-11-17,121399,81,True,album,69phA1R4gmQsBFRQ3INW8C,2sF5nNXnrrsCPZlt8ZpyGd,rage rap,usa,17
+117,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,2023-06-23,244684,98,False,single,7CyPwkp0oE8Ro9Dd5CUDjW,1Xyo4u8uXC1ZmMpatF05PJ,canadian contemporary r&b,usa,18
+118,Bandit,Don Toliver,2024-02-01,147746,80,True,single,7sTyAjxDXq9afwfSQy6D0s,4Gso3d4CscCijv0lmajZWs,pop rap,usa,19
+119,Think U The Shit (Fart),Ice Spice,2024-01-26,141639,83,True,single,4w2Furap0ZzaiK4J14E9sR,3LZZPxNDGDFVSIPqf4JuEf,bronx drill,usa,20
+120,Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series),The Weeknd,2023-06-02,215466,96,True,single,6WzRpISELf3YglGAh7TXcG,1Xyo4u8uXC1ZmMpatF05PJ,canadian contemporary r&b,usa,21
+121,Surround Sound (feat. 21 Savage & Baby Tate),JID,2022-10-31,229938,94,True,album,1udwFobQ1JoOdWPQrp2b6u,6U3ybJ9UHNKEdsH7ktGBZ7,hip hop,usa,22
+122,"yes, and?",Ariana Grande,2024-01-12,214994,97,True,single,7gaA3wERFkFkgivjwbSvkG,66CXWjxzNUsdJxJ2JdwvnR,pop,usa,23
+123,500lbs,Lil Tecca,2023-09-22,144390,87,True,album,6rjuKpPydT2SxN15TZpV7r,4Ga1P7PMIsmqEZqhYZQgDo,melodic rap,usa,24
+124,Last Night,Morgan Wallen,2023-03-03,163854,87,True,album,7K3BhSpAxZBznislvUMVtn,4oUHIQIBe0LHzYfvXNW4QM,contemporary country,usa,25
+125,La Víctima,Xavi,2023-08-17,156345,96,True,single,5XVdHRf4CAJ2Jm0uMIy5qY,3Me35AWHCGqW4sZ7bWWJt1,sad sierreno,usa,26
+126,Agora Hills,Doja Cat,2023-09-20,265360,85,True,album,5PyDJG7SQRgWXefgexqIge,5cj0lLjcoR7YOSnhnX0Po5,dance pop,usa,27
+127,act ii: date @ 8,4batz,2023-12-15,113684,88,True,single,4HMop4Re0iucehmF7mgV27,5fi7lIgJGH3RgUpJYcffQ7,,usa,28
+128,I KNOW ?,Travis Scott,2023-07-28,211582,92,True,album,6wsqVwoiVH2kde4k4KKAFU,0Y5tJX1MQlPlqiwlOH1tJY,hip hop,usa,29
+129,fukumean,Gunna,2023-06-16,125040,93,True,album,4rXLjWdF2ZZpXCVTfWcshS,2hlmm7s2ICUX0LVIhVFlZQ,atl hip hop,usa,30
+130,FTCU,Nicki Minaj,2023-12-08,172137,90,True,album,1a73gcEg6h6Re6hHXoVltJ,0hCNtLu0JehylgoiP8L4Gh,hip pop,usa,31
+131,Pink + White,Frank Ocean,2016-08-20,184516,92,False,album,3xKsf9qdS1CyvXSMEid6g8,2h93pZq0e7k5yf4dywlkpM,lgbtq+ hip hop,usa,32
+132,IDGAF (feat. Yeat),Drake,2023-10-06,260111,92,True,album,2YSzYUF3jWqb9YP9VXmpjE,3TVXtAsR1Inumwj472S9r4,canadian hip hop,usa,33
+133,vampire,Olivia Rodrigo,2023-09-08,219724,95,True,album,1kuGVB7EU95pJObxwvfwKS,1McMsnEElThX1knmY4oliG,pop,usa,34
+134,Paint The Town Red,Doja Cat,2023-09-20,230480,88,True,album,56y1jOTK0XSvJzVv9vHQBK,5cj0lLjcoR7YOSnhnX0Po5,dance pop,usa,35
+135,Murder On The Dancefloor,Sophie Ellis-Bextor,2002-06-06,230013,94,False,album,4tKGFmENO69tZR9ahgZu48,2cBh5lVMg222FFuRU7EfDE,dance pop,usa,36
+136,See You Again (feat. Kali Uchis),"Tyler, The Creator",2017-07-21,180386,92,True,album,7KA4W4McWYRpgf0fWsJZWB,4V8LLVI7PbaPR0K2TGSxFF,hip hop,usa,37
+137,Praise Jah In The Moonlight,YG Marley,2023-12-27,263040,88,True,single,3h5TiWTqGxjSjFrbruPFH9,0n4Fao9kbjgM76RmVlfSwr,,usa,38
+138,Thinkin’ Bout Me,Morgan Wallen,2023-03-03,177387,87,False,album,0PAcdVzhPO4gq1Iym9ESnK,4oUHIQIBe0LHzYfvXNW4QM,contemporary country,usa,39
+139,Home,Good Neighbours,2024-01-17,157485,82,False,single,68mOSKT4uBkKddEAhlMO61,52N3KGrTWDRhdQJrgBTofE,,usa,40
+140,First Person Shooter (feat. J. Cole),Drake,2023-10-06,247444,90,True,album,7aqfrAY2p9BUSiupwk3svU,3TVXtAsR1Inumwj472S9r4,canadian hip hop,usa,41
+141,Lovers Rock,TV Girl,2014-06-05,213920,91,False,album,6dBUzqjtbnIa1TwYbyw5CM,0Y6dVaC9DZtPNH4591M42W,pov: indie,usa,42
+142,No Role Modelz,J. Cole,2014-12-09,292799,91,True,album,68Dni7IE4VyPkTOH9mRWHr,6l3HvQ5sa6mXTsMTB19rO5,conscious hip hop,usa,43
+143,exes,Tate McRae,2023-12-08,159400,90,True,album,4E63weMCaNZuGPEFMnuEi8,45dkTj5sMRSjrmBSBeiHym,alt z,usa,44
+144,Heading South,Zach Bryan,2019-09-30,171692,87,True,single,2Dct3GykKZ58hpWRFfe2Qd,40ZNYROS4zLfyyBSs2PGe2,classic oklahoma country,usa,45
+145,FE!N (feat. Playboi Carti),Travis Scott,2023-07-28,191700,92,True,album,42VsgItocQwOQC3XWZ8JNA,0Y5tJX1MQlPlqiwlOH1tJY,hip hop,usa,46
+146,Feather,Sabrina Carpenter,2023-03-17,185552,93,True,album,2Zo1PcszsT9WQ0ANntJbID,74KM79TiuVKeVCqs8QtB0B,pop,usa,47
+147,née-nah,21 Savage,2024-01-12,220584,90,True,album,2yUzr8Sr6ldG8vmHhZwTnz,1URnnhqYAYcrqrcwql10ft,atl hip hop,usa,48
+148,Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,2023-10-26,229477,92,False,album,1Iq8oo9XkmmvCQiGOfORiz,06HL4z0CvFAxyc27GXpf02,pop,usa,49
+149,Spin You Around (1/24),Morgan Wallen,2024-01-26,209427,81,False,single,47Xj8eIAp7hYOOqArmkqZE,4oUHIQIBe0LHzYfvXNW4QM,contemporary country,usa,50
+150,POPO,Stormy,2024-01-30,191666,61,False,single,0sMCcICKRGJ8Td75nZloeU,5Do9u0GoN4gFn6Nk8NGDhh,rap maroc,morocco,1
+151,BLUE LOVE,ElGrandeToto,2023-11-24,187826,68,True,album,0YZ2ANy2Hhf21koqFpph5F,4BFLElxtBEdsdwGA1kHTsx,arabic hip hop,morocco,2
+152,3ADI JIDAN,Dada,2024-01-04,172500,65,True,album,2wNNXprT139bOoaBGmc12V,7prKK2GchmQEkgUsAFXEz0,rap maroc,morocco,3
+153,DELLALI (feat. Hamza),ElGrandeToto,2023-11-24,182053,66,True,album,2oMCQhVDHhzKEHk5rN6T1E,4BFLElxtBEdsdwGA1kHTsx,arabic hip hop,morocco,4
+154,MAGHRIBI,ElGrandeToto,2023-11-24,254800,68,True,album,01GVrWU4CZgZyHFMShuQb1,4BFLElxtBEdsdwGA1kHTsx,arabic hip hop,morocco,5
+155,3DABI,Draganov,2023-07-20,202000,68,True,single,0e6eVGeec6asBnmE4gTYqA,2g8Pu5gVtDpkYGsP3RLepJ,rap maroc,morocco,6
+156,Mimti,Duke,2023-12-30,198595,63,False,single,6MZ3lIqUARBkZEDERr6tlF,6JLJjTC6pSfJousfGwdn6r,moroccan pop,morocco,7
+157,BGHAWNI,ElGrandeToto,2023-11-24,197466,66,True,album,1wrvsIADrnhWKBCw27UxZ9,4BFLElxtBEdsdwGA1kHTsx,arabic hip hop,morocco,8
+158,Allo Oui,Cheb Hichem TGV,2023-11-24,200040,66,False,single,0FvnIUp3c3YRawAkprTCp6,3EJQjKomRx3gpoYmP1bEIl,rai,morocco,9
+159,SEYA,GIMS,2022-12-02,188484,62,False,album,3bdJXs70t2ybhfrDH6zyv4,0GOx72r5AAEKRGQFn3xqXK,french hip hop,morocco,10
+160,La,DYSTINCT,2023-06-08,148328,76,False,album,5XF583kr3Eojotxl6SOKF0,1cKyknhftNKXCjMBd2hDrG,belgian hip hop,morocco,11
+161,Hyati,Duke,2023-09-23,155302,64,False,single,1p6ewW5oS6NerlFRbQ3Mow,6JLJjTC6pSfJousfGwdn6r,moroccan pop,morocco,12
+162,Dawk Lya,Snor,2021-01-21,148062,65,True,single,5OInx13SpghEifbS5bQmwq,7LC7LQ1f1CzaRLobFcblZN,rap maroc,morocco,13
+163,SWEETCHY,Dada,2024-01-04,151000,60,True,album,0c3oj5HJnYj2bbMEoabmiY,7prKK2GchmQEkgUsAFXEz0,rap maroc,morocco,14
+164,Zarzour,Lartiste,2023-06-22,199586,69,True,single,7t4XOS9MpF1pC0OBLnMiDy,6HhnhnxLsowYuuejvku0Bz,french hip hop,morocco,15
+165,TRAP ROUMI V5,kouz1,2023-12-31,244800,57,True,single,5lLOq77WKo2UMY4Y7w22oL,3siTsIx6IEreSUva7pVnZ8,moroccan pop,morocco,16
+166,RAZONES (feat. Morad),ElGrandeToto,2023-11-24,184253,65,True,album,62OmBF30kfTb0XLbGZPeTS,4BFLElxtBEdsdwGA1kHTsx,arabic hip hop,morocco,17
+167,Machi Lkhatri,Figoshin,2024-01-11,209070,58,False,single,5BSg7yE6EmP6hSdhjPy0J0,7vg7wkmGzMEM7p2ZkMPHJS,rap maroc,morocco,18
+168,Di Mochkila,Oualid,2024-01-05,145783,67,False,single,3iEya2BDyWT88tM8fOJJx3,60tsxRkHtGIlk3IW8U8O2y,dutch hip hop,morocco,19
+169,ZIGZAG,Bo9al,2023-09-30,168042,61,True,single,2Pn4RjpmuYRMJTXWzTonXn,0DF2Pcrc3dY80zqbmgKHCF,rap maroc,morocco,20
+170,Still Alive,Raste,2023-04-28,235139,62,False,single,0RNLOJuaBDGzg7oS4qS8OT,7hblKQxMowm5BZpxUjcYQT,rap maroc,morocco,21
+171,FOUTINI,Bo9al,2023-02-14,239916,59,True,single,5w7eAmcnRKFo1SwYAcpdHg,0DF2Pcrc3dY80zqbmgKHCF,rap maroc,morocco,22
+172,KIF KIF,Lbenj,2023-07-16,227826,62,False,single,23iRPid7TsITfNxKGL0toM,1H0D7p5aN8tGG8DPLt0Nbv,arabic hip hop,morocco,23
+173,شوفو لامور مادار فيا,Bilel Tacchini,2023-12-09,186036,59,False,single,0yvcSDx1WMdxnUHhqG7PEh,2QtIVRuCdO2a4RWyoF4ayb,rai,morocco,24
+174,Qui sait ? (feat. ElGrandeToto),Niro,2023-02-10,190786,68,True,album,3ejjmzEsUfObGdmmQRVmM2,1wAtSe79kItIb9nf5EhI2Q,french hip hop,morocco,25
+175,Love Me Again,V,2023-08-11,182293,91,False,single,2N0SPREDYqILVEFSsWF5N5,3JsHnjpbhX4SnySpvpa9DK,j-division,morocco,26
+176,SULTAN,ElGrandeToto,2023-11-24,204426,61,True,album,7AghOMSZrtR7DkfWxLuRDs,4BFLElxtBEdsdwGA1kHTsx,arabic hip hop,morocco,27
+177,Échec - Spotify Singles,Inkonnu,2023-12-07,203807,60,True,single,7bpuBTsNwlWnBABYbCZAkN,7ggM69yllqpMykcU8Tror4,arabic hip hop,morocco,28
+178,Y Dor,Soolking,2023-07-27,145620,71,False,single,4m4MwgqsswdG67P8SsQEii,0GgY7hjMoGDsX8ZDe2mwds,french hip hop,morocco,29
+179,Chouwafat,Houssainy,2023-06-14,204444,61,False,single,6Ncxu0CAuY2C1WEZJFdMMk,0Vd0wj4JUTJ6M4ts8Xhpko,moroccan pop,morocco,30
+180,Galbi Khasah Molah,Cheba Warda,2023-02-05,266900,63,False,single,1sKCCDynLxGhHesdlLGT7s,0c3dDCJfxcT4lYNugbKvJt,moroccan pop,morocco,31
+181,Si tu savais,Anys,2020-05-17,192340,56,False,single,2XoeD3lix5eVNEa40ZFtHW,1YjFEw5PirL57vHDoCMkhw,rap maroc,morocco,32
+182,Goodbye,Moha K,2024-01-26,191229,60,False,single,1HJZok3nL68K9ML6Twa1bQ,6o5sl0TGublDPXyMHdMq1E,,morocco,33
+183,Talet Lghiba,Mocci,2022-11-25,211230,63,False,single,6vEtT2Vu5MprdI69pATbLm,14u942JWc8Zz1O9M4z2WO1,moroccan pop,morocco,34
+184,TP,ElGrandeToto,2023-11-24,253453,60,True,album,0TqIRFzVdgqZrAhQaeED8j,4BFLElxtBEdsdwGA1kHTsx,arabic hip hop,morocco,35
+185,Abala Ya Bali,Ayoub Anbaoui,2023-03-02,228925,62,False,single,2a1dUbvOaZw7vrHNanpi3r,2XgBaGUId4RuYzvXYEKikZ,moroccan pop,morocco,36
+186,Fawda,Stormy,2024-01-05,260000,55,True,single,64icnQSqsWkz0d7oQeNlB9,5Do9u0GoN4gFn6Nk8NGDhh,rap maroc,morocco,37
+187,Love,kouz1,2023-01-13,191827,68,False,single,5zgOQGcG0oTDUQVc45q1BY,3siTsIx6IEreSUva7pVnZ8,moroccan pop,morocco,38
+188,Khssara,Duke,2023-04-29,152611,44,False,single,3XouPSvnWkkepjdbjyFW8i,6JLJjTC6pSfJousfGwdn6r,moroccan pop,morocco,39
+189,WILI,Draganov,2023-02-11,190000,59,True,single,7AM2uga26rlhKu1a27MyFS,2g8Pu5gVtDpkYGsP3RLepJ,rap maroc,morocco,40
+190,Rmadi,Muslim,2023-07-02,228559,62,False,single,0muYqG3zcO7STxOBSErQ7s,6eQdvOOIyiwu6kfzdbUnxU,arabic hip hop,morocco,41
+191,Se Grita,Morad,2023-05-12,259627,79,True,album,55Q180Og5mkW2XeGPjB7yn,4az97MtWmBQ5Db3GfDh9j9,drill espanol,morocco,42
+192,M.I.M,Dada,2024-01-04,176000,53,True,album,5pxsTRuLSM5oN8SR7a9CPn,7prKK2GchmQEkgUsAFXEz0,rap maroc,morocco,43
+193,Casanova,Soolking,2023-07-06,189090,85,False,single,30D9x5LFgL2o9xidjX2wtE,0GgY7hjMoGDsX8ZDe2mwds,french hip hop,morocco,44
+194,Rouhi,Zouhair Bahaoui,2024-01-25,181578,52,False,single,2qxPBeL2Q8jRnDv6EPK18A,0CaWnepnGfVPs8uNwOzav6,moroccan pop,morocco,45
+195,Nfss Lhala,Mons,2023-09-08,200287,55,False,single,4Sf0D2p1XLbfnVAAFFLl0E,7douYKOyzk9ZRvGFu9UOnm,rap maroc,morocco,46
+196,SARCELLES,ElGrandeToto,2023-11-24,217253,59,True,album,5k7J4UqdZ8eZoYiCPvYp0g,4BFLElxtBEdsdwGA1kHTsx,arabic hip hop,morocco,47
+197,Tayha Love,Cheb Nassim,2020,283696,57,False,single,3ZFDVnwbi8cJiEyPxbZGea,36HNrlSe0rp6bFPEDRRXHo,rai,morocco,48
+198,PARA MI (feat. Beny JR),ElGrandeToto,2023-11-24,204293,62,True,album,6gHsm2pRCjq3OknHhRpe1C,4BFLElxtBEdsdwGA1kHTsx,arabic hip hop,morocco,49
+199,ماما,Inkonnu,2023-10-05,226720,57,True,single,02JOIeE385aLgrUrMvOjGh,7ggM69yllqpMykcU8Tror4,arabic hip hop,morocco,50
+200,Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo,Lauana Prado,2023-10-12,265450,89,False,album,2sYFUcurlISdHlAsnYCEgD,6TYimByryGphZCtwYopH0y,sertanejo,brasil,1
+201,POCPOC,PEDRO SAMPAIO,2023-11-23,127384,88,False,single,0oQCRjrWGvkqkdf82UlXI3,5wbf52LA6kcaboHSN6NEF1,funk carioca,brasil,2
+202,Let's Go 4,Dj GBR,2023-08-29,641941,89,True,single,2InS5VWKJQbsFBKOsf1cJB,0IhzJFf4QBEz0ifqLwScKV,rave funk,brasil,3
+203,Macetando,Ivete Sangalo,2023-12-15,167786,80,False,single,6eJUG282cUKuIoa72sEsqO,7dzq55YG3wjViqexDwiycQ,arrocha,brasil,4
+204,Barulho Do Foguete - Ao Vivo,Zé Neto & Cristiano,2023-06-22,133546,88,False,album,42JNab8NPeCADJ9D3Cl5wS,487N2T9nIPEHrlTZLL3SQs,agronejo,brasil,5
+205,Dia de Fluxo,AgroPlay,2023-12-18,133610,84,False,single,6GmyQws2xpUFIN5dXBNTrl,0uGWkZRPp1Urk77XBrPBsZ,agronejo,brasil,6
+206,DEJA VU,Luan Santana,2023-12-07,199827,91,False,single,2IDf0IZ9dfw0uDYV2n1bJc,3qvcCP2J0fWi0m0uQDUf6r,arrocha,brasil,7
+207,Baby Eu Tava na Rua da Água,TR,2023-12-01,115846,80,True,single,4sAoshwHCmh4IHMQxZHwRD,2CotyFTVKWR1jJLPTrrjdu,,brasil,8
+208,Canudinho - Ao Vivo,Gusttavo Lima,2024-01-25,124511,64,False,album,3wShSQczmwl6BwPqzRy1J9,7MiDcPa6UiV3In7lIM71IN,agronejo,brasil,9
+209,Daqui pra Sempre,Manu,2023-09-22,202644,87,False,single,35D06z7kmwMmYYbyJ0BkSm,0CdnnCbbKD4oIzBmxi2o7r,arrocha,brasil,10
+210,Fronteira - Ao Vivo,Ana Castela,2023-11-17,166189,77,False,single,1xjy8WRyYUkayJcyyWQpYe,2CKOmarVWvWqkNWUatHCex,agronejo,brasil,11
+211,Perna Bamba,Parangolé,2023-12-15,127220,67,False,album,6fcQIY5VSFNrK4YzDoljPQ,2v5eqze59fqRes2e5QVGhf,axe,brasil,12
+212,Anestesiado - Ao Vivo,Murilo Huff,2023-11-16,172548,85,False,single,7vCtJ5u7dFM4tAWtgFf4l8,3hq7WoPJsrRP0KMSLhUgRz,arrocha,brasil,13
+213,Tenho Que Me Decidir,MC PH,2023-11-29,232258,86,True,album,697gwO5YoSGVAnlfREIZll,4PLdCloYxu2bMKfuuB9lI5,funk consciente,brasil,14
+214,Vazou Na Braquiara - Ao Vivo,Hugo & Guilherme,2024-01-18,164240,81,False,single,1ZtgnRr4uKMOoCzP4vnQDl,1LIuN7ov1IBQDdLsU83ojl,agronejo,brasil,15
+215,Tipo Hollywood,Mc Ws da leste,2023-09-19,109384,82,False,single,6nvbXA95vgyThzj2Tbhank,5Rs4gTYf15iES8jXZqhx2L,,brasil,16
+216,Tem Café,Henry Freitas,2023-11-24,158122,82,True,single,6XvFnICxXsVc8OK4eh1E9b,6wduHvHCH5QZtWs6ULilDM,forro,brasil,17
+217,Lapada Dela - Ao Vivo,Grupo Menos É Mais,2023-01-20,159322,86,False,album,4f0aDk7HX37SfzerfznYlr,6vTqEFbTtTRJsuIpzZgjxi,pagode,brasil,18
+218,Dois Fugitivos - Ao Vivo,Simone Mendes,2023-10-20,173370,77,False,album,4YKujFSyakVjLdH1sDllVc,2eK9gcJQ6uqVvJL63dnOM3,sertanejo,brasil,19
+219,Loucura,Borges,2023-12-13,179945,84,True,album,4QCwvUs4ob87Tq9VP07Uo3,6jBww4kwlSrjaNYP7AQPtX,trap brasileiro,brasil,20
+220,Tô Voltando - (Boiadeira Internacional),Ana Castela,2023-08-25,177327,85,False,single,7G2yGMHlcPPTCDhMrAaMyZ,2CKOmarVWvWqkNWUatHCex,agronejo,brasil,21
+221,Silverado (AgroPlay Verão),AgroPlay,2024-01-18,162194,77,False,single,26l5FAEVr9cfaILS0szvvt,0uGWkZRPp1Urk77XBrPBsZ,agronejo,brasil,22
+222,MEIO TERMO - Ao Vivo,Luan Santana,2023-11-09,175468,84,False,album,23IebZSNZ8VzwUr4rJNGRG,3qvcCP2J0fWi0m0uQDUf6r,arrocha,brasil,23
+223,DENTRO DA HILUX,Luan Pereira,2023-08-24,163013,82,False,single,3jTyFoGeD3DTu9cnnctMWN,5kVgcCdPbeUwxBqWxi2Ktl,agronejo,brasil,24
+224,Cama Repetida,Leo Santana,2023-11-15,171100,79,False,single,0wuj2T6IZtotux1Jjluo7m,7KVJCU4z5L4EUHILL8aMxR,arrocha,brasil,25
+225,Baile do Bruxo,Tropa do Bruxo,2023-09-29,221538,86,True,single,00ZKeP47bZtswtANkvxz2j,4s3lxX76LwxzMdQEAFYdzv,,brasil,26
+226,Não Recomendo - Ao Vivo,Matheus & Kauan,2023-11-28,141216,84,False,single,4ssTFuVeNJG8py5dr2P2pV,2Z0lRIqr997lIUiPtrpKCr,agronejo,brasil,27
+227,Erro Gostoso - Ao Vivo,Simone Mendes,2023-10-20,178811,76,False,album,6vq7r1Pqd3pyI07u63cPZV,2eK9gcJQ6uqVvJL63dnOM3,sertanejo,brasil,28
+228,Manda um Oi - Ao Vivo,Guilherme & Benuto,2024-02-01,166490,50,False,album,0HlioiDYWAqP6p73XFUOP7,6m6e7D2TnV0aYMllFFwMxu,agronejo,brasil,29
+229,10 Carros,Chefin,2023-11-24,141176,85,True,single,2twZl1jsRbJRTNCE6VB6eW,68PYmgkbRP1qZnEWOry7sB,funk carioca,brasil,30
+230,Ritmista 1.0,DJ WN,2023-11-22,615810,80,True,single,3ZNjlT5zR0jkEVzSSZCQeJ,3joq445M6f168kb3mkp7BB,,brasil,31
+231,Mala dos Porta-Mala - Ao Vivo,Gusttavo Lima,2024-01-25,153237,60,False,album,6k5QJ60Ee9UNLnJD2yksf9,7MiDcPa6UiV3In7lIM71IN,agronejo,brasil,32
+232,Solteiro Forçado - Boiadeira Internacional,Ana Castela,2023-07-07,194582,84,False,single,4Z2i41GDQyu3KRpBavEnyR,2CKOmarVWvWqkNWUatHCex,agronejo,brasil,33
+233,Devia Ser Proibido - Ao Vivo Em Brasília,Henrique & Juliano,2023-07-28,173967,84,False,album,0QcKkN8b4iVkmVsbaze8OS,3p7PcrEHaaKLJnPUGOtRlT,agronejo,brasil,34
+234,Joga Pra Lua,Anitta,2023-12-15,125108,83,False,single,1CtcgU1q0BgJN4Aottdscu,7FNnA9vBm6EKceENgCGRMb,funk pop,brasil,35
+235,Faz um Vuk Vuk (Teto Espelhado),MC Kevin o Chris,2023-07-20,138461,85,True,single,64CovjRwInpOJW4PiGMprY,2UMj7NCbuqy1yUZmiSYGjJ,funk 150 bpm,brasil,36
+236,Um Mês E Pouco - Ao Vivo,Zé Neto & Cristiano,2023-06-22,171712,83,False,album,3PqU6gHWUaBTtIZi5oxEJ7,487N2T9nIPEHrlTZLL3SQs,agronejo,brasil,37
+237,Quase Algo - Ao Vivo Em Nova Iorque / 2022,Henrique & Juliano,2023-12-15,178251,72,False,album,3iam4WkRoqMoBBCwDFZNgd,3p7PcrEHaaKLJnPUGOtRlT,agronejo,brasil,38
+238,Beijo Equivocado,George Henrique & Rodrigo,2023-09-14,156377,81,False,single,5DcysyjaPrLzXgDauvzvn6,3FlCKtwOEYQQYyGVEbxG2Z,agronejo,brasil,39
+239,Pane no Sistema,GREGO,2023-12-15,214090,68,False,album,7MLX5VV97CcXIpH2QUIy13,4v4g6B3AmczdtPlNE4t39X,,brasil,40
+240,Tá OK,DENNIS,2023-05-04,92093,84,False,single,0fABszUFNbNq9IW503Gj8v,6xlRSRMLgZbsSNd0BMobwy,funk carioca,brasil,41
+241,Torce o Olho - Ao Vivo,Gusttavo Lima,2024-01-25,167551,58,False,album,4ykvcYpoXid0u9rvzZzNy8,7MiDcPa6UiV3In7lIM71IN,agronejo,brasil,42
+242,Love +18,Gustavo Mioto,2024-01-26,167594,75,False,single,4YSVHvv2e9h0lsJbX5x3NZ,1X6ORK7IekgmyjV6IFPszP,arrocha,brasil,43
+243,Ela - Ao Vivo,Sorriso Maroto,2023-09-14,196988,82,False,album,1kWcd9h9HoeXsKaDVhSOtj,1fUSLFr4WUBx7joEcGwpvG,pagode,brasil,44
+244,Leão,Marília Mendonça,2023-05-25,166774,78,False,album,53PpijFATt35Zxfl6LTxoK,1yR65psqiazQpeM79CcGh8,arrocha,brasil,45
+245,Vestido Curto - Ao Vivo,Diego & Victor Hugo,2023-12-20,151976,80,False,single,2QxL3wAJnwOOmygY4VX0My,3k68C6mNMJL6OaAdWeW2ZF,arrocha,brasil,46
+246,Eu Não Dou Conta - Ao Vivo,Israel & Rodolffo,2024-01-25,169559,59,False,album,0MHA5BjCqtYL3T0yZ138mz,41QLxRXlc2NwfJZkHGHKid,agronejo,brasil,47
+247,Sou Musa do Verão,Marshmello,2023-11-03,187153,80,False,album,2cZ62VBKsdZ7u1kKKJdFOc,64KEffDW9EtZ1y2vBYgq8T,brostep,brasil,48
+248,DANÇA PRA ME PROVOCAR,DJ JOÃO PEREIRA,2023-09-14,157216,80,False,single,6zdL0aLZs6g61SPGrlMvrM,1tPQcKxMrvf09Ry8zk68gt,,brasil,49
+249,Oi Balde - Ao Vivo,Zé Neto & Cristiano,2023-06-22,159158,76,False,album,4xAGuRRKOgoaZbMGdmTD3N,487N2T9nIPEHrlTZLL3SQs,agronejo,brasil,50
+250,Calcolatrici,Sfera Ebbasta,2023-11-17,205524,81,True,album,6bN41HjY008ggroMFxNLaa,23TFHmajVfBtlRx5MXqgoz,italian hip hop,italy,1
+251,Petit Fou Fou (feat. ANNA),Rhove,2023-12-14,113737,78,False,single,2CHUSuvnHXjLTGdX6Bz6fv,44DWomjW1oDuxIoBIRpmQ4,italian hip hop,italy,2
+252,15 Piani,Sfera Ebbasta,2023-11-17,206896,80,True,album,05wb6MEyJeG2z1MVCIXxC8,23TFHmajVfBtlRx5MXqgoz,italian hip hop,italy,3
+253,Moneylove (feat. Emis Killa),Massimo Pericolo,2023-12-01,172538,80,False,album,2gGq8fqoGuKpCjuV7p2dd3,1El4YQA8oCXX7ynFSxRTFq,italian hip hop,italy,4
+254,"EVERYDAY (feat. Shiva, ANNA, Geolier)",Takagi & Ketra,2023-10-13,190188,79,False,single,20bTkdvyWZjO4ORHmzXQR4,76UCIJTB0jcJvBaL0CdIqx,italian adult pop,italy,5
+255,MOON (feat. Capo Plaza & Tony Boy),AVA,2024-01-25,186126,74,True,single,2QieMRkH51KbJw4ZauGJfY,7zPS3i8YJBNeDcqXUHfCMr,italian hip hop,italy,6
+256,Anche Stasera,Sfera Ebbasta,2023-11-17,217500,79,True,album,5WssaPhjCCUFBMk9PpnHYj,23TFHmajVfBtlRx5MXqgoz,italian hip hop,italy,7
+257,TUNNEL,Simba La Rue,2024-01-05,144864,77,True,album,1M7CwtrWZ24mopNdDPB3DM,2PEMswqQspTSsAltdeF5kO,drill italiana,italy,8
+258,ROSSOFUOCO,Mida,2023-11-07,162684,78,False,single,5B5p5w9QV0QFBsnASmtL24,2Pr26KMbfrX8zb8Vk6jFHe,trap italiana,italy,9
+259,Unwritten,Natasha Bedingfield,2004-08-30,259333,91,False,album,3U5JVgI2x4rDyHGObzJfNf,7o95ZoZt5ZYn31e9z1Hc0a,dance pop,italy,10
+260,COME VUOI,Geolier,2023-01-06,172615,76,True,album,5x9LonDyHxGUO2VzfHJHLE,27LlKWxS3KXW7RRAxN5S8s,italian hip hop,italy,11
+261,Nato Per Questo (feat. Marracash),Club Dogo,2024-01-12,226732,77,True,album,2orGI5VXRF4uplYVuvdRyU,4dyfAiJCbl7jS1GHOCdiJv,italian hip hop,italy,12
+262,Milly (feat. Sfera Ebbasta),Club Dogo,2024-01-12,185041,78,True,album,0ksqA7waEGNDkGkmRz0Gwj,4dyfAiJCbl7jS1GHOCdiJv,italian hip hop,italy,13
+263,BOULEVARD,Artie 5ive,2023-12-08,160258,73,True,album,6SSv0mVOX54GMKtIOrKpI1,2R4kNOwHUUsuDYhKsESVbF,italian hip hop,italy,14
+264,Kiss You (F**k You) [feat. Geolier],Yung Snapp,2023-09-01,207400,76,True,album,34YxYcGtsAzI1K0SNAWMn1,4y5lvMadZv6NAv8RgcCRem,italian hip hop,italy,15
+265,Si No Estás,iñigo quintero,2022-09-23,184061,95,False,single,2HafqoJbgXdtjwCOvNEF14,0jbo7KFNMiIkfBR6ih0yhm,,italy,16
+266,Cadillac (feat. Artie 5ive),Boro,2024-01-18,155526,62,True,album,6GMyR5UghG6k4MpsXsaim8,1hHYi4Vy83BGo6TqKd98hu,italian hip hop,italy,17
+267,VETRI NERI,AVA,2023-05-19,164776,76,True,single,1K9qAxGT4cWUicf2OezSen,7zPS3i8YJBNeDcqXUHfCMr,italian hip hop,italy,18
+268,2minuti,Calcutta ,2023-10-20,214291,76,False,album,7yS8LfvvFEhtGhKLk29j5a,582KhTHEVOONNQLmQ5612r,italian pop,italy,19
+269,Baby Mama,Don Pero,2022-10-27,151160,75,True,single,4Y60H8heDsEpQ2hin2g6V5,2KLafS2cc489GVGuYm5aE2,drill italiana,italy,20
+270,Paradiso Artificiale (feat. Baby Gang & Kid Yugi),Tedua,2023-06-02,162411,75,False,album,5omIW7YOPhA6CULhkdz6jE,1AgAVqo74e2q4FVvg0xpT7,indie liguria,italy,21
+271,Nightmares,Bresh,2023-09-29,201782,75,False,single,6SiJ1o6148rcmF2BydC1LW,7FeObngbQ0GY3SojNwKdKn,italian hip hop,italy,22
+272,VDLC,Sfera Ebbasta,2023-11-17,198260,77,True,album,242NmD3BqOefyiOZQy2MT2,23TFHmajVfBtlRx5MXqgoz,italian hip hop,italy,23
+273,Insta Lova,Marracash,2016-06-24,206805,76,False,album,1w91YxaRwTShkKe4apYf3r,5AZuEF0feCXMkUCwQiQlW7,italian hip hop,italy,24
+274,Hoe (feat. Sfera Ebbasta),Tedua,2023-06-02,137098,76,False,album,3VtGh8xE9qRsFyY2Uj1WG3,1AgAVqo74e2q4FVvg0xpT7,indie liguria,italy,25
+275,Parole Vuote (La Solitudine),Tedua,2023-11-28,251320,74,False,album,4QBfVk60RIBQg1uyox78Kh,1AgAVqo74e2q4FVvg0xpT7,indie liguria,italy,26
+276,"BON TON (feat. Lazza, Blanco, Sfera Ebbasta & Michelangelo)",Drillionaire,2023-06-28,238533,57,False,album,6tP2AFUZkz4PuUfssawUBn,0qts5zYDAeK8dBmrdF2Zwq,italian hip hop,italy,27
+277,Beautiful Things,Benson Boone,2024-01-18,180304,93,False,single,6tNQ70jh4OwmPGpYy6R2o9,22wbnEMDvgVIAGdFeek6ET,singer-songwriter pop,italy,28
+278,Papaya,VillaBanks,2023-10-26,139714,68,True,album,0eUgmndC1CN1eijY6EKSaE,3ASAxVN1hNoYfoMcIkzZWL,italian hip hop,italy,29
+279,G63,Sfera Ebbasta,2023-11-17,229253,76,True,album,0lqGKcPzUX4RO4PYysoLes,23TFHmajVfBtlRx5MXqgoz,italian hip hop,italy,30
+280,Che t'o dico a fa',Angelina Mango,2023-10-06,187742,72,False,single,20qlAd6sHAYjc7TrrM5VeY,1A6HBLulvBFzNtlMb7b08f,italian pop,italy,31
+281,Spingere,Il Pagante,2024-01-23,157118,68,False,single,3RgpMcg7uRz9b4Sbn1iXec,1vKXVGgIDP1XXZX4Tehjtn,italian pop,italy,32
+282,IL MALE CHE MI FAI (feat. Marracash),Geolier,2023-04-07,167339,74,False,album,7Da5kjy5GByLHE5OPQ4tpg,27LlKWxS3KXW7RRAxN5S8s,italian hip hop,italy,33
+283,bellissimissima <3,Alfa,2023-05-12,157031,75,False,single,2qrCResILkL1JFeRBrv3qA,7GacyaFUp0qkEJglERX9N7,pop virale italiano,italy,34
+284,Tutti,Calcutta ,2023-10-20,250894,75,False,album,3G5VUAzCpvaaWEMk9NkHFT,582KhTHEVOONNQLmQ5612r,italian pop,italy,35
+285,Due principi (feat. Emis Killa),Neima Ezza,2024-01-26,211321,68,True,album,5YdpLxge3UzTHymkQ6XCf4,754BUADwzMYecBgOoBaetK,italian hip hop,italy,36
+286,Good Night,Alex-X,2024-02-02,133714,54,False,single,4mTgMcrPERRJpJB3mMNpk9,5yvhuhH1eNSF0W5obLbdaS,,italy,37
+287,greedy,Tate McRae,2023-09-15,131872,100,True,single,3rUGC1vUpkDG9CZFHMur1t,45dkTj5sMRSjrmBSBeiHym,alt z,italy,38
+288,Ricordi Sbiaditi (feat. Capo Plaza),Medy,2023-12-15,184615,73,False,album,7HyJYGyYCU7M9VCaOwbFg6,3lbFUmlaNMa9ZVSabLlkhn,italian hip hop,italy,39
+289,CENERE,Lazza,2022-04-07,208323,70,False,album,0mHC3BK9vFGoEU0EcGPWRZ,0jdNdfi4vAuVi7a6cPDFBM,italian hip hop,italy,40
+290,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,2022-07-06,198937,88,False,single,2tTmW7RDtMQtBk7m2rYeSw,716NhGYqD1jl2wI1Qkgq36,argentine hip hop,italy,41
+291,ANELLI E COLLANE (feat. ANNA),Artie 5ive,2023-07-20,189015,74,True,album,0YI32qkEhhUjoGVMGXDm8b,2R4kNOwHUUsuDYhKsESVbF,italian hip hop,italy,42
+292,King Of The Jungle,Club Dogo,2024-01-12,200643,75,True,album,35Bz9Lr74rowqcNxr3EpAS,4dyfAiJCbl7jS1GHOCdiJv,italian hip hop,italy,43
+293,Red Light,Tedua,2023-06-02,167880,74,False,album,1kZLATTXQa5BtEKH8GbW2U,1AgAVqo74e2q4FVvg0xpT7,indie liguria,italy,44
+294,La tua canzone,Coez,2019-03-29,192040,71,False,album,4Z43nMEiOiNeDrqu2BN0JD,5dXlc7MnpaTeUIsHLVe3n4,italian adult pop,italy,45
+295,Straniero (feat. Tedua),Massimo Pericolo,2023-12-01,176343,73,False,album,4nKyIs9RnHzRJSyM5x7BEU,1El4YQA8oCXX7ynFSxRTFq,italian hip hop,italy,46
+296,Houdini,Dua Lipa,2023-11-09,185917,94,False,single,4OMJGnvZfDvsePyCwRGO7X,6M2wZ9GZgrQXHCFfjv46we,dance pop,italy,47
+297,BÂTIMENT (feat. Sfera Ebbasta),Simba La Rue,2024-01-05,204631,74,True,album,6BhhV1ImaKVr1YwsyYIBWJ,2PEMswqQspTSsAltdeF5kO,drill italiana,italy,48
+298,Destri,Gazzelle,2021-02-12,185503,71,False,album,7nRFsITVaSHko2Fw2Gcy59,7KFOc3T4Xo8DVZt4PWw2qN,italian adult pop,italy,49
+299,Murder On The Dancefloor,Sophie Ellis-Bextor,2002-06-06,230013,94,False,album,4tKGFmENO69tZR9ahgZu48,2cBh5lVMg222FFuRU7EfDE,dance pop,italy,50
+300,HOLA PERDIDA,Luck Ra,2024-02-02,166536,60,False,album,7JKptWv4YXmievid0HajID,4kcQWQDK0u9AftVSpdrAgk,trap argentino,argentina,1
+301,Una Foto Remix (feat. Emilia),Mesita,2024-01-05,243898,90,False,single,1kqH58eGh2ZTOHwqBIB2tM,2IKdK6PbitvCiXt1t2bPU6,rap uruguayo,argentina,2
+302,"Young Miko: Bzrp Music Sessions, Vol. 58",Bizarrap,2024-01-10,187172,94,False,single,6VciS3dRMpZhJiDxT8ArFi,716NhGYqD1jl2wI1Qkgq36,argentine hip hop,argentina,3
+303,ROZE | DJ TAO Turreo Sessions #22,DJ Tao,2023-11-23,155291,82,False,single,5wcghdKONQcc5TKx9jCcns,5CA5IqbsFr4hpNLdjgO0BU,cumbia 420,argentina,4
+304,Inocente,Roze Oficial,2023-12-01,171500,83,False,single,6gV8ALkSHfJi7Bprabr1FC,2Hxu0Wmd7FUm0euCVInVrN,,argentina,5
+305,Buscando Money,TWENTY SIX,2023-07-21,150000,79,False,single,357iDuZ0IXAAg3Aj7UszqO,6C2mFGFh8dz1vKp9l5Ce8P,,argentina,6
+306,La_Original.mp3,Emilia,2023-11-03,140625,85,False,album,6Es8Sk3xe1HiJ2MXCfHHwR,0AqlFI0tz2DsEoJlKSIiT9,pop argentino,argentina,7
+307,QUE ME FALTE TODO,Luck Ra,2024-02-02,165918,58,False,album,1TyBUtMxdmRfXhW3MmbxtQ,4kcQWQDK0u9AftVSpdrAgk,trap argentino,argentina,8
+308,Bronceado - Remix,Marama,2023-12-13,156631,83,False,single,1xxtsuafCIJm7WPQ1tdDDi,4GepMkTgrIZECoCC55vqjW,cumbia pop,argentina,9
+309,LUNA,Feid,2023-12-01,196800,97,False,album,7bywjHOc0wSjGGbj04XbVi,2LRoIwlKmHjgvigdNGBHNo,colombian pop,argentina,10
+310,La Morocha,Luck Ra,2024-02-02,134144,56,False,album,6vRQqxOhUFd78p5tL8jXr7,4kcQWQDK0u9AftVSpdrAgk,trap argentino,argentina,11
+311,Sin Querer,Fer Vazquez,2023-12-14,141071,80,True,single,0kVpyCPMT52a05026zHGiq,5nAsuOI0lqqbii7YFCh7cB,,argentina,12
+312,Exclusive.mp3,Emilia,2023-11-03,120600,85,False,album,5f4mOETLngamMDTJnbF9s7,0AqlFI0tz2DsEoJlKSIiT9,pop argentino,argentina,13
+313,Besos con Fernet,Rusherking,2023-11-07,147375,82,False,single,1gAPIjqunPXRA4y1kYZi0q,3Apb2lGmGJaBmr0TTBJvIZ,trap argentino,argentina,14
+314,SINVERGÜENZA - con Angela Torres,Emanero,2023-12-05,217490,80,False,single,2xbH0CuDbid800YW5nMPzR,2BTS8Np1YzPQuXjgdlqsBB,argentine hip hop,argentina,15
+315,Tal Para Cual,Salastkbron,2024-01-11,151224,75,False,single,0mJRX0WnqWlu8Boe7gpQ1P,3WMlRpW5JWuDI95TcEWt3r,pop argentino,argentina,16
+316,Linda - Remix,Marka Akme,2023-09-27,234105,82,False,single,7HrgGbnNKZKhBL70aFKpXk,4SgKWjM7cJDCh2aY9H4HZf,cumbia pop,argentina,17
+317,M.A.I,Milo j,2023-11-30,184027,85,False,album,35ttE4t8lQZA2vuCYDg4G7,19HM5j0ULGSmEoRcrSe5x3,trap argentino,argentina,18
+318,Mentiras | CROSSOVER #3,Big One,2023-07-25,168000,81,False,single,6Z28dALKtAgZ7AZRfjMQjY,2OhUNb01gLwygOizYvTm0e,trap argentino,argentina,19
+319,Ni Una Ni Dos,BM,2023-06-28,158535,82,True,single,0H9WU0OIXPpbOVgzzOanXb,5TP8Ubo4jLKEi4Mw2O8fAk,previa,argentina,20
+320,OJITOS ROJOS,Grupo Frontera,2023-08-25,221601,81,False,album,11PV8CaPqlto9Uejx92C35,6XkjpgcEsYab502Vr1bBeW,musica chihuahuense,argentina,21
+321,Un Finde | CROSSOVER #2,Big One,2023-04-04,162500,86,False,single,3tiJUOfAEqIrLFRQgGgdoY,2OhUNb01gLwygOizYvTm0e,trap argentino,argentina,22
+322,El Amor De Mi Vida,Los Ángeles Azules,2023-08-18,184586,61,False,single,04sktg3deiYUweHfbFUZTM,0ZCO8oVkMj897cKgFH7fRW,gruperas inmortales,argentina,23
+323,FLECHAZO EN EL CENTRO,YSY A,2023-09-06,185241,82,False,album,4jn3R3KF5hx2fCiXlj89yE,2qWK8K2Jfh67UqtwY8tCW6,argentine hip hop,argentina,24
+324,El Super Junte Rkt,Gusty dj,2023-11-30,383369,78,True,single,1dtFrIzrr4DJZOHHESVwbt,5f9pQjPeDbuRF1GowQXo3L,rkt,argentina,25
+325,GTA.mp3,Emilia,2023-11-03,151653,77,False,album,6hv8hai0yo19JF2c6pppj6,0AqlFI0tz2DsEoJlKSIiT9,pop argentino,argentina,26
+326,Ahi Ahi,El negro tecla,2021-12-08,176796,80,True,single,5O9IqFNUVtjRlDpdKex3YH,6M6pyt8k3EjvbFo1pZFS75,rkt,argentina,27
+327,Piscina,Maria Becerra,2023-11-08,225661,82,True,single,6q6aChVJ5LLXFUSfakwpxW,1DxLCyH42yaHKGK3cl5bvG,pop argentino,argentina,28
+328,Le Gustan lo' Flaites,El Joan,2023-03-17,183328,80,True,single,1smRP4zRit7A6ZDQXkFJWC,4d7tFHxzWvzfsgCqPAEOSQ,,argentina,29
+329,Ya No Vuelvas (Versión Cuarteto),Luck Ra,2024-02-02,204000,54,False,album,0u6JsFiEEXb6kaF0oqyeFi,4kcQWQDK0u9AftVSpdrAgk,trap argentino,argentina,30
+330,Lágrimas | CROSSOVER #4,Big One,2023-10-10,167419,79,False,single,1lSayCmr2lS6ndxELoabIG,2OhUNb01gLwygOizYvTm0e,trap argentino,argentina,31
+331,ATORRANTE - con Los Palmeras,Emanero,2023-07-08,252347,77,False,single,3ezO8gfskSWM3rk0GTfhFl,2BTS8Np1YzPQuXjgdlqsBB,argentine hip hop,argentina,32
+332,Quiero Creer,Luck Ra,2024-02-02,145054,52,False,album,4ZXZub1pPCWib6xlSHiTj6,4kcQWQDK0u9AftVSpdrAgk,trap argentino,argentina,33
+333,Y TE VAS,Luck Ra,2024-02-02,148979,64,False,album,21RG4bCz6wb3iDCshmUGYT,4kcQWQDK0u9AftVSpdrAgk,trap argentino,argentina,34
+334,Bad Boy,Sayian Jimmy,2023-11-10,159101,76,True,album,6PMapQ7YSxkhAgNOvvoiWs,3ZfYo6sKskRv0wOyrZZdAj,urbano chileno,argentina,35
+335,CORAZÓN VACÍO,Maria Becerra,2023-06-22,160535,83,False,single,3oNnzH6hmqIGIhJ1NcHlrh,1DxLCyH42yaHKGK3cl5bvG,pop argentino,argentina,36
+336,Me Escapé,DobleP,2023-09-07,176181,76,True,single,0iVcmJx7r74F7mTf7M6s0v,2eXWodjj5K1vVq2CSjl036,,argentina,37
+337,Columbia,Quevedo,2023-07-07,186000,92,False,single,6XbtvPmIpyCbjuT0e8cQtp,52iwsT98xCoGgiGntTiR7K,rap canario,argentina,38
+338,Luck Ra | Mission 15,Alan Gomez,2023-05-17,133284,78,True,single,6CIMoDfTsvFVGhFi3v9Izn,6oMRQ5H3A2XA5I3RG3leni,cumbia 420,argentina,39
+339,ANDO,Jere Klein,2023-12-01,172774,84,True,album,4GvEuYAfJlICR2SpMDaBxQ,35oGZihZclGoTVuICPXRP9,reggaeton chileno,argentina,40
+340,Entre Beso y Beso,Ke Personajes,2023-08-30,153488,78,False,single,6abr2lKyMZTy21gSPWm7aG,06Q5VlSAku57lFzyME3HrM,cumbia pop,argentina,41
+341,Piel,Tiago PZK,2024-02-01,141079,67,True,single,4wS0TnQzVkY9ML1BPKpOk1,5Y3MV9DZ0d87NnVm56qSY1,trap argentino,argentina,42
+342,PERRO NEGRO,Bad Bunny,2023-10-13,162767,96,True,album,7iQXYTyuG13aoeHxGG28Nh,4q3ewBCX7sLwd24euuV69X,reggaeton,argentina,43
+343,Lollipop,Darell,2023-07-28,199946,89,True,album,3cDyocF0Ibdfs1SFQk5cLZ,1TtXnWcUs0FCkaZDPGYHdf,latin hip hop,argentina,44
+344,Los del Espacio,LIT killah,2023-06-01,338000,85,False,single,1Hs1uUl8o2VtDp1DABFq0O,1vqR17Iv8VFdzure1TAXEq,argentine hip hop,argentina,45
+345,Salgo a Bailar,FMK,2023-07-14,157830,78,False,single,7xX7bER73YZSE4m76OpMXV,0dUyjgCyjfj5eMx6bX2TWf,trap argentino,argentina,46
+346,Una Foto,Mesita,2023-08-15,122500,80,False,single,4sl3IoHskl2Kbdy27gZ4yn,2IKdK6PbitvCiXt1t2bPU6,rap uruguayo,argentina,47
+347,JET_Set.mp3,Emilia,2023-11-03,145919,70,False,album,2raFBS5ysJMxhd755bvAcf,0AqlFI0tz2DsEoJlKSIiT9,pop argentino,argentina,48
+348,PRINCESITA DE ...,Jere Klein,2023-12-01,162397,86,True,album,7pNzulQGBP6v2g4A2KnAJ6,35oGZihZclGoTVuICPXRP9,reggaeton chileno,argentina,49
+349,NO DA MÁS,YSY A,2023-11-11,168484,77,False,album,7jDYmAWdghEWmQyqwLpriE,2qWK8K2Jfh67UqtwY8tCW6,argentine hip hop,argentina,50
+350,LUNA,Feid,2023-12-01,196800,97,False,album,7bywjHOc0wSjGGbj04XbVi,2LRoIwlKmHjgvigdNGBHNo,colombian pop,peru,1
+351,PERRO NEGRO,Bad Bunny,2023-10-13,162767,96,True,album,7iQXYTyuG13aoeHxGG28Nh,4q3ewBCX7sLwd24euuV69X,reggaeton,peru,2
+352,BELLAKEO,Peso Pluma,2023-12-07,197333,96,True,single,05WVKTdZhlIMX4qqMLuo0f,12GqGscKJx3aE4t07u7eVZ,corridos tumbados,peru,3
+353,LA FALDA,Myke Towers,2023-11-23,174229,91,True,album,7iUtQNMRB8ZkKC4AmEuCJC,7iK8PXO48WeuP03g8YR51W,reggaeton,peru,4
+354,Una Foto Remix (feat. Emilia),Mesita,2024-01-05,243898,90,False,single,1kqH58eGh2ZTOHwqBIB2tM,2IKdK6PbitvCiXt1t2bPU6,rap uruguayo,peru,5
+355,"Young Miko: Bzrp Music Sessions, Vol. 58",Bizarrap,2024-01-10,187172,94,False,single,6VciS3dRMpZhJiDxT8ArFi,716NhGYqD1jl2wI1Qkgq36,argentine hip hop,peru,6
+356,QLONA,KAROL G,2023-08-10,172797,93,True,album,5RqSsdzTNPX1uzkmlHCFvK,790FomKkXshlbRYZFtlgla,reggaeton,peru,7
+357,Columbia,Quevedo,2023-07-07,186000,92,False,single,6XbtvPmIpyCbjuT0e8cQtp,52iwsT98xCoGgiGntTiR7K,rap canario,peru,8
+358,AMARGURA,KAROL G,2023-02-24,170480,90,True,album,505v13epFXodT9fVAJ6h8k,790FomKkXshlbRYZFtlgla,reggaeton,peru,9
+359,Según Quién,Maluma,2023-08-25,142334,90,True,album,4bw8mcDUSRWfQo63ZTYRnU,1r4hJ1h58CWwUQe3MxPuau,latin pop,peru,10
+360,LALA,Myke Towers,2023-03-23,197920,93,True,album,7ABLbnD53cQK00mhcaOUVG,7iK8PXO48WeuP03g8YR51W,reggaeton,peru,11
+361,Un Finde | CROSSOVER #2,Big One,2023-04-04,162500,86,False,single,3tiJUOfAEqIrLFRQgGgdoY,2OhUNb01gLwygOizYvTm0e,trap argentino,peru,12
+362,Feliz Cumpleaños Ferxxo,Feid,2022-09-14,155960,88,False,album,2CeKVsFFXG4QzA415QygGb,2LRoIwlKmHjgvigdNGBHNo,colombian pop,peru,13
+363,La Diabla,Xavi,2023-11-30,172264,99,False,single,0R6NfOiLzLj4O5VbYSJAjf,3Me35AWHCGqW4sZ7bWWJt1,sad sierreno,peru,14
+364,Igual Que Un Ángel (with Peso Pluma),Kali Uchis,2024-01-12,260370,95,False,album,6XaJfhwof7qIgbbXO5tIQI,1U1el3k54VvEUzo3ybLPlM,colombian pop,peru,15
+365,OJITOS ROJOS,Grupo Frontera,2023-08-25,221601,81,False,album,11PV8CaPqlto9Uejx92C35,6XkjpgcEsYab502Vr1bBeW,musica chihuahuense,peru,16
+366,CLASSY 101,Feid,2023-12-01,195586,85,True,album,1hZsWUnLbqRw09jLAMQSsb,2LRoIwlKmHjgvigdNGBHNo,colombian pop,peru,17
+367,ANDO,Jere Klein,2023-12-01,172774,84,True,album,4GvEuYAfJlICR2SpMDaBxQ,35oGZihZclGoTVuICPXRP9,reggaeton chileno,peru,18
+368,Rara Vez,Taiu,2023-02-08,128677,87,False,single,7MVIfkyzuUmQ716j8U7yGR,5szJHKg5xeUlQ9pTqzdpic,trap argentino,peru,19
+369,MI EX TENÍA RAZÓN,KAROL G,2023-08-10,154374,88,False,album,54zcJnb3tp9c5OVKREZ1Is,790FomKkXshlbRYZFtlgla,reggaeton,peru,20
+370,DILUVIO,Rauw Alejandro,2023-07-07,197052,91,True,album,2kz1YOhJiNubjigR1gB1VX,1mcTU81TzQhprhouKaTkpq,puerto rican pop,peru,21
+371,No Te Quieren Conmigo,Gaby Music,2023-12-15,252040,89,False,single,3Cx4BsDd4q0GCVBJ5CAw2K,1r3tpVQ08jFAA2P4xzV5o4,pop reggaeton,peru,22
+372,Es un Secreto,Plan B,2010-07-20,190560,72,False,album,7JwdbqIpiuWvGbRryKSuBz,2jSGzJw0ebJLu7OLVSOcBP,reggaeton,peru,23
+373,Hey Mor,Ozuna,2022-10-07,196600,87,False,album,1zsPaEkglFvxjAhrM8yhpr,1i8SpTcr7yvPOmcqrbnVXY,puerto rican pop,peru,24
+374,BUBALU,Feid,2023-09-29,228186,80,False,album,62xla8336vUnmxTWNzCfRt,2LRoIwlKmHjgvigdNGBHNo,colombian pop,peru,25
+375,La Bachata,Manuel Turizo,2023-03-17,162637,87,False,album,3tt9i3Hhzq84dPS8H7iSiJ,0tmwSHipWxN12fsoLcFU3B,colombian pop,peru,26
+376,Lollipop,Darell,2023-07-28,199946,89,True,album,3cDyocF0Ibdfs1SFQk5cLZ,1TtXnWcUs0FCkaZDPGYHdf,latin hip hop,peru,27
+377,Amor Vuelve - (En Vivo),Grupo 5,2023-05-26,226877,63,False,album,29QkpKsdxiChq3xsmu5VDG,0l8RtvcBMjeOqfgRSVo2d6,cumbia peruana,peru,28
+378,Pa' Que Retozen,Tego Calderón,2003-07-01,151666,84,True,album,5YJ4BVvTFmVCxUyhKejHfR,3SUT1jjM5hzZj9TLfLZGIP,latin hip hop,peru,29
+379,un x100to,Grupo Frontera,2023-08-25,194563,87,False,album,2yzshFeBIwH8tWIqHEFLeD,6XkjpgcEsYab502Vr1bBeW,musica chihuahuense,peru,30
+380,Me Rehúso,Danny Ocean,2019-03-22,205714,83,False,album,6ifUES3keWjwXgae8pXI3o,5H1nN1SzW0qNeUEZvuXjAj,pop venezolano,peru,31
+381,Si No Estás,iñigo quintero,2022-09-23,184061,95,False,single,2HafqoJbgXdtjwCOvNEF14,0jbo7KFNMiIkfBR6ih0yhm,,peru,32
+382,SI SABE FERXXO,Blessd,2024-01-25,152500,81,True,album,7chTH3GBjjAyagf0SPCZDL,1TA5sGRlKUJXBN4ZyJuDIX,reggaeton,peru,33
+383,M.A.I,Milo j,2023-11-30,184027,85,False,album,35ttE4t8lQZA2vuCYDg4G7,19HM5j0ULGSmEoRcrSe5x3,trap argentino,peru,34
+384,Amanece,Anuel AA,2018-12-14,190004,84,False,single,1LiN0Z98FkR1t0m8KmLcAH,2R21vXR83lH98kGeO99Y66,reggaeton,peru,35
+385,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,2023-06-23,244684,98,False,single,7CyPwkp0oE8Ro9Dd5CUDjW,1Xyo4u8uXC1ZmMpatF05PJ,canadian contemporary r&b,peru,36
+386,Buscando Money,TWENTY SIX,2023-07-21,150000,79,False,single,357iDuZ0IXAAg3Aj7UszqO,6C2mFGFh8dz1vKp9l5Ce8P,,peru,37
+387,Te Pintaron Pajaritos,Yandar & Yostin,2016-12-30,172558,82,False,album,4jY5SnGbpH6FdGCqVbhOD4,3ptY5WTxu77JpAQQnHyxEl,reggaeton,peru,38
+388,LA INOCENTE,Mora,2022-04-01,202173,87,True,album,5jt25aFjW2kNoBqaEVaz5W,0Q8NcsJwoCbZOHHW63su5S,trap latino,peru,39
+389,VAGABUNDO,Sebastian Yatra,2023-05-12,215600,86,False,single,1MB8kTH7VKvAMfL9SHgJmG,07YUOmWljBTXwIseAUd9TW,colombian pop,peru,40
+390,Escápate Conmigo - Remix,Wolfine,2012-09-06,167418,80,True,single,4aEOz6ZpXh3wF4FOdJHOPV,2OnKRchqP7tT0FzTvWIFI7,colombian pop,peru,41
+391,Seven (feat. Latto) (Explicit Ver.),Jung Kook,2023-11-03,183550,90,True,album,2HRgqmZQC0MC7GeNuDIXHN,6HaGTQPmzraVmaVxvz6EUc,k-pop,peru,42
+392,Normal,Feid,2022-09-14,171880,85,True,album,0T2pB7P1VdXPhLdQZ488uH,2LRoIwlKmHjgvigdNGBHNo,colombian pop,peru,43
+393,Tienes Que Nacer de Nuevo,El Chulo,2024-01-05,222923,63,False,single,4k9lEKqksgLV9axqZglo96,7kj75f6jra7M10czBhd0Gt,cubaton,peru,44
+394,Primera Cita,Carin Leon,2023-05-19,186455,87,False,album,25OeKzcqakFPaJlXHPE5lm,66ihevNkSYNzRAl44dx6jJ,corrido,peru,45
+395,Me Porto Bonito,Bad Bunny,2022-05-06,178567,89,True,album,6Sq7ltF9Qa7SNFBsV5Cogx,4q3ewBCX7sLwd24euuV69X,reggaeton,peru,46
+396,CHORRITO PA LAS ANIMAS,Feid,2022-12-02,168133,85,True,single,0CYTGMBYkwUxrj1MWDLrC5,2LRoIwlKmHjgvigdNGBHNo,colombian pop,peru,47
+397,Like Crazy,Jimin,2023-03-24,212241,93,False,single,3Ua0m0YmEjrMi9XErKcNiR,1oSPZhvZMIrWW5I41kPkkY,k-pop,peru,48
+398,Fruto,Bizarrap,2023-10-04,132294,85,False,single,4SW9gHnW8NfKOdqmh0ij45,716NhGYqD1jl2wI1Qkgq36,argentine hip hop,peru,49
+399,Standing Next to You,Jung Kook,2023-11-03,206019,96,False,album,2KslE17cAJNHTsI2MI0jb2,6HaGTQPmzraVmaVxvz6EUc,k-pop,peru,50
+400,Pehle Bhi Main,Vishal Mishra,2023-11-24,250158,90,False,album,7yDHHVKLbvDmVw1XXhDDIO,5wJ1H6ud777odtZl5gG507,desi pop,india,1
+401,Husn,Anuv Jain,2023-12-01,217894,89,False,single,0TL0LFcwIBF5eX7arDIKxY,4gdMJYnopf2nEUcanAwstx,desi pop,india,2
+402,"Satranga (From ""ANIMAL"")",Arijit Singh,2023-10-27,271169,88,False,single,3yHyiUDJdz02FZ6jfUbsmY,4YRxDV8wJFPHPTeXepOstw,filmi,india,3
+403,"Akhiyaan Gulaab (From ""Teri Baaton Mein Aisa Uljha Jiya"")",Mitraz,2024-01-19,171147,80,False,single,0M0ANKNzmM4Odd7FNKghzW,3iGhlvzpXc0UHBQ7klAItX,desi pop,india,4
+404,Tu hai kahan,AUR,2023-10-16,263184,87,False,single,3zSSCPpLZ5Oc8nelhhGjKz,2cjQTf2J5yCaNY8qHpW855,urdu hip hop,india,5
+405,O Maahi,Pritam,2023-12-20,233453,76,False,album,6bmmHeCvZI92pRiTHxEdTC,1wRPtKGflJrBx9BmLsSwlU,filmi,india,6
+406,Chaleya,Anirudh Ravichander,2023-09-05,200373,81,False,album,3xMHXmedL5Rvfxmiar9Ryv,4zCH9qm4R2DADamUHMCa6O,desi hip hop,india,7
+407,Drippy,Sidhu Moose Wala,2024-02-02,195200,74,True,single,4fnIORP0QTYTOMPqMKpJtF,4PULA4EFzYTrxYvOVlwpiQ,desi hip hop,india,8
+408,One Love,Shubh,2023-08-18,159222,85,False,single,5ZLkihi6DVsHwDL3B8ym1t,5r3wPya2PpeTTsXsGhQU8O,punjabi hip hop,india,9
+409,King Shit,Shubh,2024-01-05,226933,84,False,single,1BpvuKIG7jK5EiTp2tv5z8,5r3wPya2PpeTTsXsGhQU8O,punjabi hip hop,india,10
+410,Heeriye (feat. Arijit Singh),Jasleen Royal,2023-07-25,194857,85,False,single,5PUXKVVVQ74C3gl5vKy9Li,74OaRjmyh0XyRZsQQQ5l7c,desi pop,india,11
+411,Apna Bana Le,Sachin-Jigar,2022-12-06,261702,74,False,single,1hA697u7e1jX2XM8sWA6Uy,1mBydYMVBECdDmMfE2sEUO,filmi,india,12
+412,Arjan Vailly,Manan Bhardwaj,2023-11-24,182170,81,False,album,4ApCig0GTR4IEp7Ijsyo3r,3pQ4aA7dkolyjUAMrVScgh,desi pop,india,13
+413,Cheques,Shubh,2023-05-19,183756,83,False,album,4eBvRhTJ2AcxCsbfTUjoRp,5r3wPya2PpeTTsXsGhQU8O,punjabi hip hop,india,14
+414,Saari Duniya Jalaa Denge,Jaani,2023-11-24,182348,85,False,album,0YxKKO272sacGBJKjf6FnB,5gZhfbckaWo89OzDSk3gdT,desi pop,india,15
+415,9:45,Prabh Singh,2023-03-10,117606,82,False,single,6c4Po8zyQjB4cR5XgLhcGb,0VAIiNSKG4DWkSaIy5qWz1,,india,16
+416,"Hua Main (From ""ANIMAL"")",Raghav Chaitanya,2023-10-11,277021,81,False,single,54PRUdMOYzglMGnsg9kIta,3qpyErDI4i90q5EGgSRmNK,desi pop,india,17
+417,You and Me,Shubh,2024-01-05,172066,80,False,single,4thOONDx78zsY8sHGfU1M2,5r3wPya2PpeTTsXsGhQU8O,punjabi hip hop,india,18
+418,"Janiye (from the Netflix Film ""Chor Nikal Ke Bhaga"")",Vishal Mishra,2023-03-17,223390,81,False,single,0645eBDehHcqfiF15hscQV,5wJ1H6ud777odtZl5gG507,desi pop,india,19
+419,Mannat,Darshan Raval,2023-08-09,159600,80,False,album,26elzgFl8tvajnDfeoY1YF,2GoeZ0qOTt6kjsWW4eA6LS,desi pop,india,20
+420,Softly,Karan Aujla,2023-08-18,155161,82,False,album,0YQJoDL6f46J0n1rOVkpxJ,6DARBhWbfcS9E4yJzcliqQ,desi hip hop,india,21
+421,Mahiye Jinna Sohna,Darshan Raval,2023-08-09,181250,77,False,album,0Jiaz0O4AqnJICa9PxHhaR,2GoeZ0qOTt6kjsWW4eA6LS,desi pop,india,22
+422,Manjha,Vishal Mishra,2020-03-17,191647,81,False,single,0UZLaEOSIc5kg0cc7eszqC,5wJ1H6ud777odtZl5gG507,desi pop,india,23
+423,Kesariya,Pritam,2022-10-06,268164,75,False,album,4UMIv5jd9gK98a39BQRD9X,1wRPtKGflJrBx9BmLsSwlU,filmi,india,24
+424,Malang Sajna,Sachet Tandon,2022-12-19,161041,81,False,single,73K33p4Vyz9koXGqmL5eFs,6WOdPJmexxFINcKMkP2jMG,desi pop,india,25
+425,"Tum Kya Mile (From ""Rocky Aur Rani Kii Prem Kahaani"")",Pritam,2023-06-28,277500,65,False,compilation,00ake6KfnzbZ2MaRLGqsyX,1wRPtKGflJrBx9BmLsSwlU,filmi,india,26
+426,Lutt Putt Gaya,Pritam,2023-12-20,222997,73,False,album,2pIoyDWZV5OSW0xd6n41xV,1wRPtKGflJrBx9BmLsSwlU,filmi,india,27
+427,Koi Si,Afsana Khan,2023-07-13,199998,75,False,single,0rY5TEzbVFwphIzMhMh7hX,4z0z82pXirH1TrygipQlOo,punjabi pop,india,28
+428,"Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"")",Sachin-Jigar,2023-05-16,266075,65,False,single,7Ky9U9iHjGBiRax3joCRDS,1mBydYMVBECdDmMfE2sEUO,filmi,india,29
+429,"Kaise Hua (From ""Kabir Singh"")",Vishal Mishra,2019-06-13,234722,76,False,single,1y1rQTkWmrZdJmjwuK07GC,5wJ1H6ud777odtZl5gG507,desi pop,india,30
+430,"Abrar’s Entry | Jamal Kudu (From ""ANIMAL"")",Harshavardhan Rameshwar,2023-12-06,134110,81,False,single,35FFqjqaPv1Fr9B1GtJdZO,5CTu6FKerxlvZrsLb6BYaU,,india,31
+431,Tere Pyaar Mein,Pritam,2023-02-01,266094,80,False,single,2ZD4aIEepqZsdxPxLSuUhm,1wRPtKGflJrBx9BmLsSwlU,filmi,india,32
+432,Alag Aasmaan,Anuv Jain,2020-07-31,212750,79,False,single,3bQsp4Vr9Rg4fNCx6HPOgX,4gdMJYnopf2nEUcanAwstx,desi pop,india,33
+433,Hass Hass,Diljit Dosanjh,2023-10-26,153016,82,False,single,72vuBPMhwFNlSYpTSf6fVD,2FKWNmZWDBZR4dE5KX4plR,filmi,india,34
+434,"Unakku Thaan - From ""Chithha""",Santhosh Narayanan,2023-09-22,216214,72,False,single,4H1FLy4H7nS9wy9gg9JeFQ,5FVBduYaeVBb6JIghza7v6,filmi,india,35
+435,Maan Meri Jaan,King,2022-10-12,194653,81,False,album,1418IuVKQPTYqt7QNJ9RXN,5NHm4TU5Twz7owibYxJfFU,desi pop,india,36
+436,Kahani Suno 2.0,Kaifi Khalil,2022-05-31,173637,79,False,single,4VsP4Dm8gsibRxB5I2hEkw,1n9EM0Y4A89vuRiA93gSS9,balochi pop,india,37
+437,"Agar Tum Saath Ho (From ""Tamasha"")",Alka Yagnik,2017-06-07,341054,74,False,compilation,2FCXQHugkoHE1K3tiDu8pu,3gBKY0y3dFFVRqicLnVZYz,filmi,india,38
+438,Asal Mein,Darshan Raval,2020-02-18,224240,79,False,single,0rMeOAvbQZ2RTG4B6L1M4p,2GoeZ0qOTt6kjsWW4eA6LS,desi pop,india,39
+439,Baarishein,Anuv Jain,2018-01-12,207312,79,False,single,3WLJ7D5kh44K5eJ1NqZQ6W,4gdMJYnopf2nEUcanAwstx,desi pop,india,40
+440,Apa Fer Milaangey,Savi Kahlon,2023-12-05,213368,76,False,single,5BBB2PDgDWi6NBECj0wJiA,6jvvFfe34NYXjWZMz7rExP,,india,41
+441,"What Jhumka ? (From ""Rocky Aur Rani Kii Prem Kahaani"")",Pritam,2023-07-12,213611,69,False,compilation,4QyX8CBSjcoq4iMZuvifyF,1wRPtKGflJrBx9BmLsSwlU,filmi,india,42
+442,Kurchi Madathapetti,Thaman S,2024-01-09,216558,77,False,single,0hY9eA74QrMCJuWEx7fo9y,2FgHPfRprDaylrSRVf1UlN,new beat,india,43
+443,Maharani,Karun,2022-04-01,389576,64,True,album,7CVw4gVPpH1TPQttQGVmhZ,7FvX2e6CgYllzgZ9uempWF,desi hip hop,india,44
+444,"Marham (Pehle Bhi Main) [From ""ANIMAL""]",Vishal Mishra,2023-12-23,113264,74,False,single,1fGXJZny7HUQnLKwttxmYw,5wJ1H6ud777odtZl5gG507,desi pop,india,45
+445,Ve Haaniyaan,Danny,2024-01-19,240000,63,False,single,2C6CJGFLbisteRuY6Plb7b,1qyXgLYCg0osV4glEYuQIv,,india,46
+446,Kinni Kinni,Diljit Dosanjh,2023-09-29,213344,80,False,album,3F3ZuXYFXGM1V6pk3b3zmi,2FKWNmZWDBZR4dE5KX4plR,filmi,india,47
+447,White Brown Black,Avvy Sra,2022-12-09,175999,79,False,single,3nKQrVVlwbAQSnFbgZWdN0,4qjiRRFcM4WZ0aJ3IHdWPN,punjabi pop,india,48
+448,Pahadon Mein,Vishal Mishra,2024-01-17,231034,76,False,single,4mIFaN3SWgBJlLjnyAMeg4,5wJ1H6ud777odtZl5gG507,desi pop,india,49
+449,Tu Jaana Na Piya,King,2023-10-18,226029,79,False,album,4u0D2jZ20wQaEMHBSqsDnZ,5NHm4TU5Twz7owibYxJfFU,desi pop,india,50
+450,Makasarili Malambing,Kristina Dawn,2023-11-17,121845,81,False,single,1c6hnvWjzUsJoypgwUV2sE,5Two5JCWeQdaAbGKUFQx8d,,philippines,1
+451,Alam Mo Ba Girl,Hev Abi,2023-10-20,223500,82,True,album,57Z7lSnhwx82laEb6rdZPB,4zpGxqF6oI1h3f6Md2v42T,pinoy hip hop,philippines,2
+452,Babaero,gins&melodies,2024-01-09,175396,74,False,single,0NJAqnvbF6vzripOB7PclP,2WzWSpOB41g3gb78Raj6RK,pinoy hip hop,philippines,3
+453,Get Low,O SIDE MAFIA,2023-12-22,153886,82,False,single,2kbNBhtgGiTxBuZTCXiQVY,4O19i2jHEjPyz17BeiwbDp,pinoy drill,philippines,4
+454,Walang Alam,Hev Abi,2023-10-20,185000,77,True,album,4wZTvLi0khNRqqz4i5XhdV,4zpGxqF6oI1h3f6Md2v42T,pinoy hip hop,philippines,5
+455,TAKE ALL THE LOVE,Arthur Nery,2021-04-23,206181,81,False,single,2v6jmF6VQWS96x6tSg05IC,7uDdl5V5AETSFY7K3muu22,cdo indie,philippines,6
+456,711,TONEEJAY,2023-09-08,222000,82,False,single,2ONW0ksoUixoxT7gfI9hWX,2KdFoq4IBXMzfia4ZCLDIs,,philippines,7
+457,Faded (Raw),Illest Morena,2023-12-01,175384,79,True,single,5AxEGHRwgBqFDZ20ilkCw6,2zRoFfKfqM5jaUysSG9EUI,,philippines,8
+458,Sa Susunod na Habang Buhay,Ben&Ben,2020-02-28,288189,81,False,single,3PgjBOoA5OytNGkglObpOd,4DAcJXcjX0zlQAZAPAx4Zb,opm,philippines,9
+459,Lil Kasalanan Shortie,Hev Abi,2022-11-30,163964,79,True,single,6zdryckXPbIeQE5npNqvNp,4zpGxqF6oI1h3f6Md2v42T,pinoy hip hop,philippines,10
+460,My Love Mine All Mine,Mitski,2023-09-15,137773,99,False,album,3vkCueOmm7xQDoJ17W1Pm3,2uYWxilOVlUdk4oV9DvwqK,brooklyn indie,philippines,11
+461,Tingin,Cup of Joe,2023-04-28,222298,82,False,single,7b89Ffklm3xh4GI37vlZDZ,61nn6nOoLWjVC1ER2qFAvN,opm,philippines,12
+462,"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,2023-06-23,244684,98,False,single,7CyPwkp0oE8Ro9Dd5CUDjW,1Xyo4u8uXC1ZmMpatF05PJ,canadian contemporary r&b,philippines,13
+463,homebdy (feat. Madman Stan),DEMI,2023-07-14,141762,81,False,single,01iNOMVE89uKaurFTDZX2Y,1bvOB4esBO2VFoCnaEheBO,,philippines,14
+464,Miss Miss,Rob Deniel,2023-12-08,265677,79,False,single,5mi8Oe95frx6LhvFioXE7t,7dFzqx2qyelGPiBKmdSEOT,opm,philippines,15
+465,Cruel Summer,Taylor Swift,2019-08-23,178426,99,False,album,1BxfuPKGuaTgP7aM0Bbdwr,06HL4z0CvFAxyc27GXpf02,pop,philippines,16
+466,We Made It,Nik Makino,2024-01-01,238000,78,True,single,00h9iBIZPHjHAVoNzKHIOz,3lFMRWaEWZlfXdBig97kks,pinoy hip hop,philippines,17
+467,Heaven Knows - This Angel Has Flown,Orange & Lemons,2005-03-24,241146,79,False,album,0Qra8Ps4tJAZPqRXyehCjc,1EUmQM6xgUQLUkJVcvSdey,opm,philippines,18
+468,RomCom,Rob Deniel,2023-08-25,237485,78,False,single,67DEADzgSxkFWI3jVlQUL3,7dFzqx2qyelGPiBKmdSEOT,opm,philippines,19
+469,Yellow,Coldplay,2000-07-10,266773,93,False,album,3AJwUDP919kvQ9QcozQPxg,4gzpq5DPGxSnKTe4SA8HAU,permanent wave,philippines,20
+470,Para Sa Streets,Hev Abi,2023-01-13,194475,78,True,single,0szRYVD2MwFzQMs58PT1Ec,4zpGxqF6oI1h3f6Md2v42T,pinoy hip hop,philippines,21
+471,Para Sa Akin,Jason Dhakal,2023-10-27,197009,79,False,single,5v5dlsJYrw9xiB36GELIUV,7Hb2cm4pIeCUKwfzutKyjp,,philippines,22
+472,YK,Cean Jr.,2021-01-25,170263,80,False,single,3kdDccXEVz0snh6mcL4eFj,4LT250S0fAe4cYqPbRk56m,pinoy r&b,philippines,23
+473,Pakundangan (feat. Hev Abi),DEMI,2023-11-24,197933,75,False,single,2ESL2ZcFU32llFIyXLFy5P,1bvOB4esBO2VFoCnaEheBO,,philippines,24
+474,PAREHAS TAYO,Nateman,2023-10-13,256000,79,False,single,6KDLUcxVRvXIXMexgf9x9b,14AlQdTUuzYESzQYKU6QIE,pinoy drill,philippines,25
+475,ERE,juan karlos,2023-09-22,284812,72,True,album,2BLdelIp46CHvKkyWeqZHL,0a4r2EnsevvHCukoJ1xFwJ,opm,philippines,26
+476,Kisame,rhodessa,2023-02-10,212608,79,False,single,4XSIv5hJzP6kEQqsLli1eE,0XRPxTyrrVeDXLt6Wxw4UD,,philippines,27
+477,B.A.D.,Denise Julia,2023-10-27,170078,80,True,single,14YZcGhRR05BTYajt8f9u9,3L1qgTsUqavkiygkIKfWJD,,philippines,28
+478,WELCOME2DTQ,Hev Abi,2023-02-24,179115,77,True,single,3gRhGExNITCqVo0mCyqp3m,4zpGxqF6oI1h3f6Md2v42T,pinoy hip hop,philippines,29
+479,Raining In Manila,Lola Amour,2023-06-14,291070,80,False,single,0mtkRIAOueeXqHpyahIbtJ,29zSTMejPhY0m7kwNQ9SPI,opm,philippines,30
+480,Tadhana,Up Dharma Down,2012-12-07,222446,77,False,album,6FIEuf1JIzmCtach0gXpeG,3wbCeEPAW6po7J46netxMT,opm,philippines,31
+481,Take A Chance With Me,NIKI,2022-08-11,303933,80,False,album,0x7PmByJWVXdeipevd6KZS,2kxP07DLgs4xlWz8YHlvfh,indonesian r&b,philippines,32
+482,Isa lang,Arthur Nery,2021-12-17,269256,78,False,single,0HAG6nIiEKd75yGpovuSJQ,7uDdl5V5AETSFY7K3muu22,cdo indie,philippines,33
+483,Lihim,Arthur Miguel,2023-07-28,246346,79,False,single,2K0CH6BtfBtY7wMnsKIuzo,2Ev7vtPI38BE2kQvwmH4ce,opm,philippines,34
+484,Nahuhulog,Jed Baruelo,2022-05-13,227262,79,False,single,1t2gvCG4jH1kYE9sX2PrRs,6EigliA66uumHSob7cOG1y,,philippines,35
+485,LUV DRUG,gins&melodies,2023-06-28,198888,77,True,single,3oSu6uIHuwZOTyHdAZGojm,2WzWSpOB41g3gb78Raj6RK,pinoy hip hop,philippines,36
+486,Saan?,Maki,2023-03-31,206500,78,False,single,61DuXKQqvXkxcrAIiNLIgR,6AvnL2gWjNYs1hRVJx4huK,,philippines,37
+487,greedy,Tate McRae,2023-09-15,131872,100,True,single,3rUGC1vUpkDG9CZFHMur1t,45dkTj5sMRSjrmBSBeiHym,alt z,philippines,38
+488,Umaasa,Calein,2019-06-28,335624,78,False,single,4AULw1VRyJP17zMvwgTIUs,0DpLoyGVbhOHNR3ht2oO9y,pinoy city pop,philippines,39
+489,Gusto,Zack Tabudlo,2023-11-17,260000,71,False,album,0uemlnPoeZOYIDaMFZ7lvi,67IN4cLJ7798gUapyZlmac,acoustic opm,philippines,40
+490,Mahika,Adie,2023-12-15,201951,71,False,album,2nqlM3gNBMi5Zf9MDzp2Xi,1DlYnIiliftt6R21Y5NOW2,opm,philippines,41
+491,Lagabog,Skusta Clee,2023-12-16,186812,68,False,single,0pZ1RKuQnKK3TetoSHyx7i,117XFtbZPnCI1EYKjYZWJc,opm,philippines,42
+492,Lover,Taylor Swift,2019-08-23,221306,92,False,album,1dGr1c8CrMLDpV6mPbImSI,06HL4z0CvFAxyc27GXpf02,pop,philippines,43
+493,vampire,Olivia Rodrigo,2023-09-08,219724,95,True,album,1kuGVB7EU95pJObxwvfwKS,1McMsnEElThX1knmY4oliG,pop,philippines,44
+494,Just the Way You Are,Bruno Mars,2010-10-05,220734,88,False,album,7BqBn9nzAq8spo5e7cZ0dJ,0du5cEVh5yTK9QJze8zA0C,dance pop,philippines,45
+495,Fallen,Lola Amour,2021-06-25,201806,78,False,single,4mc3rUoMwwiNTHA4al9nNd,29zSTMejPhY0m7kwNQ9SPI,opm,philippines,46
+496,Ikaw Lang,NOBITA,2020-06-12,263500,77,False,single,16iRlyUMJVPqz62DlomMre,5GVk1KCKa1tdHRev4bMw7V,opm,philippines,47
+497,Palagi,TJ Monterde,2023-07-06,218051,76,False,single,0sqnYgWOw9DMc6jRgkcB2m,7LvDTuFCBv08xm6u1pOMK0,cdo indie,philippines,48
+498,Uhaw (Tayong Lahat),Dilaw,2022-12-16,241185,78,False,single,47OFMuRu5lzJHRbtEXPBbs,6Dp4LInLyMVA2qhRqQ6AGL,opm,philippines,49
+499,Seven (feat. Latto) (Explicit Ver.),Jung Kook,2023-11-03,183550,90,True,album,2HRgqmZQC0MC7GeNuDIXHN,6HaGTQPmzraVmaVxvz6EUc,k-pop,philippines,50
