@@ -7,8 +7,21 @@ id = os.environ.get('ID')
 secret = os.environ.get('SECRET')
 ```
 
-In order to achieve this, the script is looking for a **.env** file outside of the repository. The layout of the repository should be as follows:
+In order to achieve this, the script is looking for a **.env** file outside of the repository. The layout of the repository and .env file should be as follows:
 
+## Repository
+```
+spotify-api
+├─ .env
+└─ spotify-api
+   ├─ LICENSE
+   ├─ README.md
+   ├─ script.py
+   ├─ spotify_data.csv
+   └─ venv
+```
+
+## .env file
 ```
 ID = "your_custom_client_id"
 CLIENT = "your_custom_client_id"
