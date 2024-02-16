@@ -16,6 +16,7 @@ secret = os.environ.get('SECRET')
 
 manager = spotipy.SpotifyClientCredentials(client_id = id, client_secret = secret)
 sp = spotipy.Spotify(client_credentials_manager = manager)
+sp.requests_timeout = 10
 
 top50_countries = {
     'spain': '37i9dQZEVXbNFJfN1Vw8d9',
@@ -27,7 +28,22 @@ top50_countries = {
     'argentina': '37i9dQZEVXbMMy2roB9myp',
     'peru': '37i9dQZEVXbJfdy5b0KP7W',
     'india': '37i9dQZEVXbLZ52XmnySJg',
-    'philippines':'37i9dQZEVXbNBz9cRCSFkY'}
+    'philippines': '37i9dQZEVXbNBz9cRCSFkY',
+    'global': '37i9dQZEVXbMDoHDwVN2tF',
+    'uk': '37i9dQZEVXbLnolsZ8PSNw',
+    'germany': '37i9dQZEVXbJiZcmkrIHGU',
+    'uruguay': '37i9dQZEVXbMJJi3wgRbAy',
+    'france': '37i9dQZEVXbIPWwFssbupI',
+    'netherlands': '37i9dQZEVXbKCF6dqVpDkS',
+    'south-corea': '37i9dQZEVXbNxXF4SkHj9F',
+    'chile': '37i9dQZEVXbL0GavIqMTeb',
+    'mexico': '37i9dQZEVXbO3qyFxbkOE1',
+    'romania': '37i9dQZEVXbNZbJ6TZelCq',
+    'poland': '37i9dQZEVXbN6itCcaL3Tt',
+    'australia': '37i9dQZEVXbJPcfkRz0wJ0',
+    'turkey': '37i9dQZEVXbIVYVBNw9D5K',
+    'ecuador': '37i9dQZEVXbJlM6nvL1nD1',
+    'ireland': '37i9dQZEVXbKM896FDX8L1'}
 
 final_df = pd.DataFrame()
 
